@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="23008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)4!!!*Q(C=\&gt;4,&lt;=*!&amp;)8BESC,&lt;/EAAB*O#\2!#\=&amp;NFH3QGW"&amp;GDBN%!,N/$](K\)1QAWC22&amp;'7?-/@0[-D;72HG7HD4&gt;+[O&lt;J&gt;O\X`QR[GIV@7Z`0U`H^%N\.YXR@8&amp;V`(HAV@GH'_P@].]J_C``Z7_8V\M`AB``(4RI@B&amp;243VK5E0TMJ0*47ZSEZP=Z%6?Z%6?Z%6?Z%G?Z%G?Z%G?Z%%?Z%%?Z%%?Z/-A&amp;\H)21\*,'Y7-J/;#5RH+$)HYT%?YT%?PMJYD-&gt;YD-&gt;Y[#,D-2\D-2\D9:C-RXC-RXC-B[G'R/-ARW-]4+`#5XA+4_%J0#SJQF-!CM7+C9N*9+BI,#Y+4_%J0&amp;SK]"3?QF.Y#A`.+DS&amp;J`!5HM,$E,%L.44T19[(;:2Y%E`C34S*B[G6?"*0YEE]C9@FF(A34Y*)&amp;EQGB["E5.)B_:*Y%A]@3DS**`%EHM2$U\B$/8:GVMQ(/:\!%XA#4_!*0%SBQ".Y!E`A#4R-K]!4?!*0Y!E],+8!%XA#4Q!*&amp;G6Z":-&amp;!Y./12"Y_"N03YS\6%-3YZ$[Y65`F/K(4@U1K2]/^5V8XUTV46*PPHJ4V:OFXA4V0[&gt;'KT(K2&gt;3$ZYY[=4Z3$^1^&gt;5@&gt;5D@5.86*8=R$P\HD[843]8D5Y8$1@L`8&lt;L@4&gt;LP6:L02?LX7=LH59L'YP!:?/#YPB.`Q8PI6BE&gt;^8)-^?A04%7#[!!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">587235328</Property>
+<Library LVVersion="21008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)4!!!*Q(C=\&gt;4,&lt;=*!&amp;)8BESC,&lt;/EAAB*O#\2!#\=&amp;NFH3QGW"&amp;GDBN%!,N/$](K\)1QAWC22&amp;'7?-/@0[-D;72HG7HD4&gt;+[O&lt;J&gt;O\X`QR[GIV@7Z`0U`H^%N\.YXR@8&amp;V`(HAV@GH'_P@].]J_C``Z7_8V\M`AB``(4RI@B&amp;243VK5E0TMJ0*47ZSEZP=Z%6?Z%6?Z%6?Z%G?Z%G?Z%G?Z%%?Z%%?Z%%?Z/-A&amp;\H)21\*,'Y7-J/;#5RH+$)HYT%?YT%?PMJYD-&gt;YD-&gt;Y[#,D-2\D-2\D9:C-RXC-RXC-B[G'R/-ARW-]4+`#5XA+4_%J0#SJQF-!CM7+C9N*9+BI,#Y+4_%J0&amp;SK]"3?QF.Y#A`.+DS&amp;J`!5HM,$E,%L.44T19[(;:2Y%E`C34S*B[G6?"*0YEE]C9@FF(A34Y*)&amp;EQGB["E5.)B_:*Y%A]@3DS**`%EHM2$U\B$/8:GVMQ(/:\!%XA#4_!*0%SBQ".Y!E`A#4R-K]!4?!*0Y!E],+8!%XA#4Q!*&amp;G6Z":-&amp;!Y./12"Y_"N03YS\6%-3YZ$[Y65`F/K(4@U1K2]/^5V8XUTV46*PPHJ4V:OFXA4V0[&gt;'KT(K2&gt;3$ZYY[=4Z3$^1^&gt;5@&gt;5D@5.86*8=R$P\HD[843]8D5Y8$1@L`8&lt;L@4&gt;LP6:L02?LX7=LH59L'YP!:?/#YPB.`Q8PI6BE&gt;^8)-^?A04%7#[!!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -100,6 +100,9 @@
 		<Item Name="Synchronize Caller Events.vi" Type="VI" URL="../Synchronize Caller Events.vi"/>
 		<Item Name="Wait on Event Sync.vi" Type="VI" URL="../Wait on Event Sync.vi"/>
 		<Item Name="Wait on Module Sync.vi" Type="VI" URL="../Wait on Module Sync.vi"/>
+	</Item>
+	<Item Name="Control" Type="Folder">
+		<Item Name="Instrument Setting.ctl" Type="VI" URL="../Instrument Setting.ctl"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>

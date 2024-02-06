@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="23008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)X!!!*Q(C=\&gt;7^&lt;2N"%)&lt;B\QQ&amp;4K]$ARX)UY(!2(!GA#JB=E&gt;-,W4M&lt;&amp;1#7\A7*H,/&amp;NA#^?ZS).-';3;W)!D;YV,(&lt;`]?\BV05C_@J2M&gt;LJ8P@SUH\@WUP2V@@\:8Q\'?&lt;[^/B^0U^`%&gt;&gt;(\_8UN@;,`APV,U54\+_S\4V2`"@`]&gt;$'I0)GJ3A_J55VPWE/2*HO2*HO2*(O2"(O2"(O2"\O2/\O2/\O2/&lt;O2'&lt;O2'&lt;O2'XA^SE9N=Z*#3R:/&amp;EEG4#:,/5*3]*:\%EXA3$R_6?"*0YEE]C9=O3DS**`%EHM4$-#7?R*.Y%E`C9;IOS8[1YUE]4+`!%XA#4_!*0#SJQ"-!AM7#C9.*9#BI$%Y#4_!*0*QK]!3?Q".Y!A`.#DS"*`!%HM$$E,YLU48N)-@$.()]DM@R/"\(Q^2S0)\(]4A?R].S=DS/RU%Y#TK41Z!TS/HA@(!]DI=`=DS/R`%Y(M&gt;$5\^#XH?G;&gt;J"DM@Q'"\$9XA-$V0)]"A?QW.Y$!`4SP!9(M.D?!Q03]HQ'"\$9U#-26F?RG4'1+/4%2A?8PVOM8[6IEOM(V,&gt;P+K&lt;5H7TK7YCV=WBOOCKC[G[3+L.6WWK;L.5G[$[=CKU#K.;2$7Y&gt;&gt;3?^RVVJG[J'_K;OK)OK1PKW)&lt;_YY\\`6[\X5\T0'O\X7KTW7C^8GOV7GGZ8'KR7'A=RZ@(Q"?/FQ@#]&lt;EU=4\&gt;`BCG_[&gt;BOHM=JG]`B_HLQ^$S6`D``!;?D@KEUT89IW=?HXG3!!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">587235328</Property>
+<Library LVVersion="21008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)X!!!*Q(C=\&gt;7^&lt;2N"%)&lt;B\QQ&amp;4K]$ARX)UY(!2(!GA#JB=E&gt;-,W4M&lt;&amp;1#7\A7*H,/&amp;NA#^?ZS).-';3;W)!D;YV,(&lt;`]?\BV05C_@J2M&gt;LJ8P@SUH\@WUP2V@@\:8Q\'?&lt;[^/B^0U^`%&gt;&gt;(\_8UN@;,`APV,U54\+_S\4V2`"@`]&gt;$'I0)GJ3A_J55VPWE/2*HO2*HO2*(O2"(O2"(O2"\O2/\O2/\O2/&lt;O2'&lt;O2'&lt;O2'XA^SE9N=Z*#3R:/&amp;EEG4#:,/5*3]*:\%EXA3$R_6?"*0YEE]C9=O3DS**`%EHM4$-#7?R*.Y%E`C9;IOS8[1YUE]4+`!%XA#4_!*0#SJQ"-!AM7#C9.*9#BI$%Y#4_!*0*QK]!3?Q".Y!A`.#DS"*`!%HM$$E,YLU48N)-@$.()]DM@R/"\(Q^2S0)\(]4A?R].S=DS/RU%Y#TK41Z!TS/HA@(!]DI=`=DS/R`%Y(M&gt;$5\^#XH?G;&gt;J"DM@Q'"\$9XA-$V0)]"A?QW.Y$!`4SP!9(M.D?!Q03]HQ'"\$9U#-26F?RG4'1+/4%2A?8PVOM8[6IEOM(V,&gt;P+K&lt;5H7TK7YCV=WBOOCKC[G[3+L.6WWK;L.5G[$[=CKU#K.;2$7Y&gt;&gt;3?^RVVJG[J'_K;OK)OK1PKW)&lt;_YY\\`6[\X5\T0'O\X7KTW7C^8GOV7GGZ8'KR7'A=RZ@(Q"?/FQ@#]&lt;EU=4\&gt;`BCG_[&gt;BOHM=JG]`B_HLQ^$S6`D``!;?D@KEUT89IW=?HXG3!!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -21,11 +21,16 @@
 				<Item Name="REQ Initialize Hardware Argument--cluster.ctl" Type="VI" URL="../REQ Initialize Hardware Argument--cluster.ctl"/>
 				<Item Name="REQ Initialize Hardware (Reply Payload)--cluster.ctl" Type="VI" URL="../REQ Initialize Hardware (Reply Payload)--cluster.ctl"/>
 				<Item Name="REQ Setup Argument--cluster.ctl" Type="VI" URL="../REQ Setup Argument--cluster.ctl"/>
+				<Item Name="REQ Get Channel Data Argument--cluster.ctl" Type="VI" URL="../REQ Get Channel Data Argument--cluster.ctl"/>
+				<Item Name="REQ CAN Data Argument--cluster.ctl" Type="VI" URL="../REQ CAN Data Argument--cluster.ctl"/>
+				<Item Name="REQ Close Ref Argument--cluster.ctl" Type="VI" URL="../REQ Close Ref Argument--cluster.ctl"/>
+				<Item Name="REQ Create CAN Database Argument--cluster.ctl" Type="VI" URL="../REQ Create CAN Database Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
 				<Item Name="Status Updated Argument--cluster.ctl" Type="VI" URL="../Status Updated Argument--cluster.ctl"/>
 				<Item Name="Error Reported Argument--cluster.ctl" Type="VI" URL="../Error Reported Argument--cluster.ctl"/>
+				<Item Name="Broad Channel Data Argument--cluster.ctl" Type="VI" URL="../Broad Channel Data Argument--cluster.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Requests" Type="Folder">
@@ -36,6 +41,10 @@
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="REQ Initialize Hardware.vi" Type="VI" URL="../REQ Initialize Hardware.vi"/>
 			<Item Name="REQ Setup.vi" Type="VI" URL="../REQ Setup.vi"/>
+			<Item Name="REQ Get Channel Data.vi" Type="VI" URL="../REQ Get Channel Data.vi"/>
+			<Item Name="REQ CAN Data.vi" Type="VI" URL="../REQ CAN Data.vi"/>
+			<Item Name="REQ Close Ref.vi" Type="VI" URL="../REQ Close Ref.vi"/>
+			<Item Name="REQ Create CAN Database.vi" Type="VI" URL="../REQ Create CAN Database.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -53,6 +62,7 @@
 		<Item Name="Error Reported.vi" Type="VI" URL="../Error Reported.vi"/>
 		<Item Name="Module Did Stop.vi" Type="VI" URL="../Module Did Stop.vi"/>
 		<Item Name="Update Module Execution Status.vi" Type="VI" URL="../Update Module Execution Status.vi"/>
+		<Item Name="Broad Channel Data.vi" Type="VI" URL="../Broad Channel Data.vi"/>
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -90,6 +100,9 @@
 		<Item Name="Synchronize Caller Events.vi" Type="VI" URL="../Synchronize Caller Events.vi"/>
 		<Item Name="Wait on Event Sync.vi" Type="VI" URL="../Wait on Event Sync.vi"/>
 		<Item Name="Wait on Module Sync.vi" Type="VI" URL="../Wait on Module Sync.vi"/>
+	</Item>
+	<Item Name="Control" Type="Folder">
+		<Item Name="CAN Database Configuration.ctl" Type="VI" URL="../CAN Database Configuration.ctl"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
