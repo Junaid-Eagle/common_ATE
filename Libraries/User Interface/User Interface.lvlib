@@ -97,6 +97,8 @@
 		<Item Name="Create Path.vi" Type="VI" URL="../Create Path.vi"/>
 		<Item Name="Date and Time.vi" Type="VI" URL="../Date and Time.vi"/>
 		<Item Name="Pop up.vi" Type="VI" URL="../Pop up.vi"/>
+		<Item Name="Spreadsheet String to Array.vi" Type="VI" URL="../Spreadsheet String to Array.vi"/>
+		<Item Name="Log Data TDMS.vi" Type="VI" URL="../Log Data TDMS.vi"/>
 		<Item Name="Instrument Address.vi" Type="VI" URL="../Instrument Address.vi"/>
 		<Item Name="DAQ AI Configuration Settting.vi" Type="VI" URL="../DAQ AI Configuration Settting.vi"/>
 		<Item Name="Array to string converter.vi" Type="VI" URL="../Array to string converter.vi"/>
@@ -126,6 +128,7 @@
 		<Item Name="Maintenance Data highway.ctl" Type="VI" URL="../Maintenance Data highway.ctl"/>
 		<Item Name="Tab Control.ctl" Type="VI" URL="../Tab Control.ctl"/>
 		<Item Name="Report Datahighway.ctl" Type="VI" URL="../Report Datahighway.ctl"/>
+		<Item Name="Log Data Command.ctl" Type="VI" URL="../Log Data Command.ctl"/>
 		<Item Name="Instrument Address.ctl" Type="VI" URL="../Instrument Address.ctl"/>
 		<Item Name="Instrument Address Command.ctl" Type="VI" URL="../Instrument Address Command.ctl"/>
 		<Item Name="Hardware Selection Command.ctl" Type="VI" URL="../Hardware Selection Command.ctl"/>

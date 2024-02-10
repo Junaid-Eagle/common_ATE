@@ -41,7 +41,6 @@
 			<Item Name="Test User Interface API.vi" Type="VI" URL="../Libraries/User Interface/Test User Interface API.vi"/>
 		</Item>
 		<Item Name="Start up.vi" Type="VI" URL="../Start up.vi"/>
-		<Item Name="Test Selector.vi" Type="VI" URL="../Libraries/User Interface/Test Selector.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="Agilent 33XXX Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Agilent 33XXX Series.lvlib"/>
@@ -460,7 +459,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{9BDA3A90-E195-4CA2-8F41-6B455770D50E}</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">5</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">common_ATE.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/common_ATE/common_ATE.exe</Property>

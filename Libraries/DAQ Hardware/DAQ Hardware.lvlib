@@ -127,6 +127,7 @@
 		<Item Name="AI Channel Setting.ctl" Type="VI" URL="../../User Interface/AI Channel Setting.ctl"/>
 		<Item Name="AO Channel Setting.ctl" Type="VI" URL="../AO Channel Setting.ctl"/>
 		<Item Name="DO Channel Setting.ctl" Type="VI" URL="../DO Channel Setting.ctl"/>
+		<Item Name="Message Data.ctl" Type="VI" URL="../Message Data.ctl"/>
 		<Item Name="Helper Cluster.ctl" Type="VI" URL="../Helper Cluster.ctl"/>
 		<Item Name="DI Channel Setting.ctl" Type="VI" URL="../DI Channel Setting.ctl"/>
 		<Item Name="Timing AI DAQ Setting.ctl" Type="VI" URL="../Timing AI DAQ Setting.ctl"/>
