@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="21008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)[!!!*Q(C=\&gt;5R&lt;BJ"&amp;-&lt;R,Z;,N(1O&lt;:3=Y&amp;W"()%LP$Y6L1N,ZAJ@\T2=!&lt;GQF0*&gt;A3NQ"@+@95"9NEQ42Z(F77;"&lt;X&lt;H`4S\L+8?PEK8WJVL0^^M_`(^93?\Q]"B`"A&gt;8PPX:_-H_?PDL5I@?4H_=OJH^&gt;`SHWH[&lt;*`N9\@&lt;MT_#&gt;`]&gt;@&amp;&amp;\%.',&lt;HL31[XMLMC,P-C,P-C,X/1G.\H*47\S*%`S*%`S*%`S)!`S)!`S)!`SPJ',8/1CBV15,QI6ER94&amp;!&gt;$5&lt;%L0)7H]"1?PKLQ&amp;*\#5XA+$Y?I]"3?QF.Y#A_HK@!5HM*4?!I05X6*^9U=4_&amp;B?BG0]2C0]2A0*75]"G#+G9H.*$"E"MU(YT%?Y_'DD-&gt;YD-&gt;YD)&gt;B'9`R')`R'!_H^&amp;6RV\3.(!`4+0%EHM34?")05SPR**\%EXA3$_75?"*0AEA+*J.$5(*3=E$S*@%E(N[5?"*0YEE]C9?B@I7SLUT4N)U=4_!*0)%H]!1?JF$A#4S"*`!%(K:6Y!E]A3@Q""Z++@!%HM!41)+CF&amp;=Q78"C=&amp;!1""Z?`7[*@J8=*&gt;%X;&gt;S]'D?FRMWG=2.JX"Q;&amp;VXD9GJ=*)X&amp;VVB5D=837!3.0UY$L9(2++*R=DN17`9&lt;_JK_IC`J#`K=0K.0[:.W[F]_=,P&gt;;L0:;,V?;\6;;&lt;F=;L&amp;9;$[@;T;&lt;;4K&gt;;D+:("]$VWT("],_O84,Z`OLXU^X`HZT^YP__/0G`NP$5]P`Q@`H`_$:K!O&gt;VG#.`A#D+I3\!!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
+<Library LVVersion="16008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)[!!!*Q(C=\&gt;5R&lt;BJ"&amp;-&lt;R,Z;,N(1O&lt;:3=Y&amp;W"()%LP$Y6L1N,ZAJ@\T2=!&lt;GQF0*&gt;A3NQ"@+@95"9NEQ42Z(F77;"&lt;X&lt;H`4S\L+8?PEK8WJVL0^^M_`(^93?\Q]"B`"A&gt;8PPX:_-H_?PDL5I@?4H_=OJH^&gt;`SHWH[&lt;*`N9\@&lt;MT_#&gt;`]&gt;@&amp;&amp;\%.',&lt;HL31[XMLMC,P-C,P-C,X/1G.\H*47\S*%`S*%`S*%`S)!`S)!`S)!`SPJ',8/1CBV15,QI6ER94&amp;!&gt;$5&lt;%L0)7H]"1?PKLQ&amp;*\#5XA+$Y?I]"3?QF.Y#A_HK@!5HM*4?!I05X6*^9U=4_&amp;B?BG0]2C0]2A0*75]"G#+G9H.*$"E"MU(YT%?Y_'DD-&gt;YD-&gt;YD)&gt;B'9`R')`R'!_H^&amp;6RV\3.(!`4+0%EHM34?")05SPR**\%EXA3$_75?"*0AEA+*J.$5(*3=E$S*@%E(N[5?"*0YEE]C9?B@I7SLUT4N)U=4_!*0)%H]!1?JF$A#4S"*`!%(K:6Y!E]A3@Q""Z++@!%HM!41)+CF&amp;=Q78"C=&amp;!1""Z?`7[*@J8=*&gt;%X;&gt;S]'D?FRMWG=2.JX"Q;&amp;VXD9GJ=*)X&amp;VVB5D=837!3.0UY$L9(2++*R=DN17`9&lt;_JK_IC`J#`K=0K.0[:.W[F]_=,P&gt;;L0:;,V?;\6;;&lt;F=;L&amp;9;$[@;T;&lt;;4K&gt;;D+:("]$VWT("],_O84,Z`OLXU^X`HZT^YP__/0G`NP$5]P`Q@`H`_$:K!O&gt;VG#.`A#D+I3\!!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -26,6 +26,8 @@
 				<Item Name="REQ Close DI Argument--cluster.ctl" Type="VI" URL="../REQ Close DI Argument--cluster.ctl"/>
 				<Item Name="REQ Close DO Argument--cluster.ctl" Type="VI" URL="../REQ Close DO Argument--cluster.ctl"/>
 				<Item Name="REQ Acq DI Argument--cluster.ctl" Type="VI" URL="../REQ Acq DI Argument--cluster.ctl"/>
+				<Item Name="REQ Wakeup_helper_loop_DI Argument--cluster.ctl" Type="VI" URL="../REQ Wakeup_helper_loop_DI Argument--cluster.ctl"/>
+				<Item Name="REQ Retry DI Argument--cluster.ctl" Type="VI" URL="../REQ Retry DI Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -46,6 +48,8 @@
 			<Item Name="REQ Close DI.vi" Type="VI" URL="../REQ Close DI.vi"/>
 			<Item Name="REQ Close DO.vi" Type="VI" URL="../REQ Close DO.vi"/>
 			<Item Name="REQ Acq DI.vi" Type="VI" URL="../REQ Acq DI.vi"/>
+			<Item Name="REQ Wakeup_helper_loop_DI.vi" Type="VI" URL="../REQ Wakeup_helper_loop_DI.vi"/>
+			<Item Name="REQ Retry DI.vi" Type="VI" URL="../REQ Retry DI.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -104,10 +108,13 @@
 	</Item>
 	<Item Name="SubVI" Type="Folder">
 		<Item Name="Create DO Task.vi" Type="VI" URL="../Create DO Task.vi"/>
+		<Item Name="Read DAQ Config Parameter.vi" Type="VI" URL="../Read DAQ Config Parameter.vi"/>
 		<Item Name="Create DI Task.vi" Type="VI" URL="../Create DI Task.vi"/>
 	</Item>
 	<Item Name="Control" Type="Folder">
 		<Item Name="DI Channel Setting.ctl" Type="VI" URL="../DI Channel Setting.ctl"/>
+		<Item Name="DAQ Instr Config Parameter.ctl" Type="VI" URL="../DAQ Instr Config Parameter.ctl"/>
+		<Item Name="DO Channel Setting..ctl" Type="VI" URL="../DO Channel Setting..ctl"/>
 		<Item Name="DO Channel Setting.ctl" Type="VI" URL="../DO Channel Setting.ctl"/>
 		<Item Name="DO Name.ctl" Type="VI" URL="../DO Name.ctl"/>
 	</Item>

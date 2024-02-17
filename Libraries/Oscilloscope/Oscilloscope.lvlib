@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="21008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)_!!!*Q(C=\&gt;7`43.2%-@R(YA!87&lt;J#E!OA9E)D2SY!.T#Z%2/C:#&gt;)ZWG"&lt;@A&amp;K9&amp;N_!7@.]&gt;$Y9!=-+&gt;%/)NT_T_XL]0&lt;^?,6/63ON$_6*F^7!\N^6F^K]\K]K8^G$W@P&gt;8?1W@PD8^O?'0]97ADKM&gt;_`_L[9`_*IJ`S5\ZX?4DZ*@DHXY-T$3]C;F+$[F44M/Q_S:-]S:-]S:-]S)-]S)-]S)0=S:X=S:X=S:X=S)X=S)X=S)W]$H+2CVTEE*,&amp;EY733:-*EMZ1F(QEHM34?")0FUI]C3@R**\%1R=FHM34?"*0YG'9%E`C34S**`%Q65GS$H)]C9@J&amp;8A#4_!*0)'(*26Y!E#Q7$"R-!E-"9X"3?!*0)'(5Q7?Q".Y!E`AI6G"*`!%HM!4?"B3OR+F'1ZS0%QDR_.Y()`D=4R-,=@D?"S0YX%],#@(YXA=B,/A-TE%/9/=$M[&amp;YX%]`*,D=4S/R`%Y(JLK$HHNT+!:$H)]BM@Q'"\$9XC91I&lt;(]"A?QW.YG&amp;;'R`!9(M.D?&amp;B+BM@Q'"Y$9CT+]D)G-Q9;H9T!]0"44YP689K37"V30\TKBV,^M+E@)P8$I&lt;\J[JOJPEHKT6&gt;PKHKTV*OA`O05;$6'P9B[]."2/T[XV!VV46V3&amp;^1Z&gt;5I&gt;5U@$U%`OO.PNN.VON&gt;FMN&amp;[PN6QON6AM.*`0.:V/.2[0.2K.DK_"+Y\D#_(Q8HLA`0(G;&lt;+[P:OMLH^06L`O*I`X@_[(`$`]@`Y#\U;&gt;[`5;\.&amp;@+XVIO1!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
+<Library LVVersion="16008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)_!!!*Q(C=\&gt;7`43.2%-@R(YA!87&lt;J#E!OA9E)D2SY!.T#Z%2/C:#&gt;)ZWG"&lt;@A&amp;K9&amp;N_!7@.]&gt;$Y9!=-+&gt;%/)NT_T_XL]0&lt;^?,6/63ON$_6*F^7!\N^6F^K]\K]K8^G$W@P&gt;8?1W@PD8^O?'0]97ADKM&gt;_`_L[9`_*IJ`S5\ZX?4DZ*@DHXY-T$3]C;F+$[F44M/Q_S:-]S:-]S:-]S)-]S)-]S)0=S:X=S:X=S:X=S)X=S)X=S)W]$H+2CVTEE*,&amp;EY733:-*EMZ1F(QEHM34?")0FUI]C3@R**\%1R=FHM34?"*0YG'9%E`C34S**`%Q65GS$H)]C9@J&amp;8A#4_!*0)'(*26Y!E#Q7$"R-!E-"9X"3?!*0)'(5Q7?Q".Y!E`AI6G"*`!%HM!4?"B3OR+F'1ZS0%QDR_.Y()`D=4R-,=@D?"S0YX%],#@(YXA=B,/A-TE%/9/=$M[&amp;YX%]`*,D=4S/R`%Y(JLK$HHNT+!:$H)]BM@Q'"\$9XC91I&lt;(]"A?QW.YG&amp;;'R`!9(M.D?&amp;B+BM@Q'"Y$9CT+]D)G-Q9;H9T!]0"44YP689K37"V30\TKBV,^M+E@)P8$I&lt;\J[JOJPEHKT6&gt;PKHKTV*OA`O05;$6'P9B[]."2/T[XV!VV46V3&amp;^1Z&gt;5I&gt;5U@$U%`OO.PNN.VON&gt;FMN&amp;[PN6QON6AM.*`0.:V/.2[0.2K.DK_"+Y\D#_(Q8HLA`0(G;&lt;+[P:OMLH^06L`O*I`X@_[(`$`]@`Y#\U;&gt;[`5;\.&amp;@+XVIO1!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -28,6 +28,10 @@
 				<Item Name="REQ Configure DVM Argument--cluster.ctl" Type="VI" URL="../REQ Configure DVM Argument--cluster.ctl"/>
 				<Item Name="REQ Read DVM Argument--cluster.ctl" Type="VI" URL="../REQ Read DVM Argument--cluster.ctl"/>
 				<Item Name="REQ Read DVM (Reply Payload)--cluster.ctl" Type="VI" URL="../REQ Read DVM (Reply Payload)--cluster.ctl"/>
+				<Item Name="REQ Acq Data Argument--cluster.ctl" Type="VI" URL="../REQ Acq Data Argument--cluster.ctl"/>
+				<Item Name="REQ Wakeup_helper_loop Argument--cluster.ctl" Type="VI" URL="../REQ Wakeup_helper_loop Argument--cluster.ctl"/>
+				<Item Name="REQ Acq Waveform Argument--cluster.ctl" Type="VI" URL="../REQ Acq Waveform Argument--cluster.ctl"/>
+				<Item Name="REQ Retry Oscilloscope Argument--cluster.ctl" Type="VI" URL="../REQ Retry Oscilloscope Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -48,6 +52,10 @@
 			<Item Name="REQ Channel Setting.vi" Type="VI" URL="../REQ Channel Setting.vi"/>
 			<Item Name="REQ Configure DVM.vi" Type="VI" URL="../REQ Configure DVM.vi"/>
 			<Item Name="REQ Read DVM.vi" Type="VI" URL="../REQ Read DVM.vi"/>
+			<Item Name="REQ Acq Data.vi" Type="VI" URL="../REQ Acq Data.vi"/>
+			<Item Name="REQ Wakeup_helper_loop.vi" Type="VI" URL="../REQ Wakeup_helper_loop.vi"/>
+			<Item Name="REQ Acq Waveform.vi" Type="VI" URL="../REQ Acq Waveform.vi"/>
+			<Item Name="REQ Retry Oscilloscope.vi" Type="VI" URL="../REQ Retry Oscilloscope.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -104,6 +112,7 @@
 		<Item Name="Wait on Module Sync.vi" Type="VI" URL="../Wait on Module Sync.vi"/>
 	</Item>
 	<Item Name="Control" Type="Folder">
+		<Item Name="Message Data.ctl" Type="VI" URL="../Message Data.ctl"/>
 		<Item Name="Channel Setting.ctl" Type="VI" URL="../Channel Setting.ctl"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
