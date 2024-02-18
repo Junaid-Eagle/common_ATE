@@ -98,7 +98,11 @@
 		<Item Name="Wait on Module Sync.vi" Type="VI" URL="../Wait on Module Sync.vi"/>
 	</Item>
 	<Item Name="Control" Type="Folder">
+		<Item Name="Matrix Config Parameter.ctl" Type="VI" URL="../Matrix Config Parameter.ctl"/>
 		<Item Name="Initialize Parameter.ctl" Type="VI" URL="../Initialize Parameter.ctl"/>
+	</Item>
+	<Item Name="Sub VI" Type="Folder">
+		<Item Name="Update Matrix Config.vi" Type="VI" URL="../Update Matrix Config.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>

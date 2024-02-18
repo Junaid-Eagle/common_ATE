@@ -107,6 +107,7 @@
 		<Item Name="Error Log.vi" Type="VI" URL="../Error Log.vi"/>
 		<Item Name="Trim Empty Value.vi" Type="VI" URL="../Trim Empty Value.vi"/>
 		<Item Name="Sub Pabel FGV.vi" Type="VI" URL="../Sub Pabel FGV.vi"/>
+		<Item Name="String to Ring Converter.vi" Type="VI" URL="../String to Ring Converter.vi"/>
 		<Item Name="Hardware Selection.vi" Type="VI" URL="../Hardware Selection.vi"/>
 		<Item Name="Reference Origin.vi" Type="VI" URL="../Reference Origin.vi"/>
 		<Item Name="Check Uesr found.vi" Type="VI" URL="../Check Uesr found.vi"/>

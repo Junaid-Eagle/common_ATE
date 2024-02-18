@@ -24,20 +24,22 @@
 			<Item Name="S-Matrix.lvlib" Type="Library" URL="../Libraries/S-Matrix/S-Matrix.lvlib"/>
 			<Item Name="Environment Chamber.lvlib" Type="Library" URL="../Libraries/Environment Chamber/Environment Chamber.lvlib"/>
 			<Item Name="User Interface.lvlib" Type="Library" URL="../Libraries/User Interface/User Interface.lvlib"/>
+			<Item Name="CVT.lvlib" Type="Library" URL="../Libraries/CVT/CVT.lvlib"/>
 		</Item>
 		<Item Name="Testers" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Test Database API.vi" Type="VI" URL="../Libraries/Database/Test Database API.vi"/>
-			<Item Name="Test ARINC API.vi" Type="VI" URL="../Libraries/ARINC/Test ARINC API.vi"/>
 			<Item Name="Test CAN API.vi" Type="VI" URL="../Libraries/CAN/Test CAN API.vi"/>
 			<Item Name="Test DAQ Hardware API.vi" Type="VI" URL="../Libraries/DAQ Hardware/Test DAQ Hardware API.vi"/>
 			<Item Name="Test DAQ IO API.vi" Type="VI" URL="../Libraries/DAQ IO/Test DAQ IO API.vi"/>
+			<Item Name="Test ARINC API.vi" Type="VI" URL="../Libraries/ARINC/Test ARINC API.vi"/>
 			<Item Name="Test DC PWS API.vi" Type="VI" URL="../Libraries/DC PWS/Test DC PWS API.vi"/>
 			<Item Name="Test DMM API.vi" Type="VI" URL="../Libraries/DMM/Test DMM API.vi"/>
-			<Item Name="Test Environment Chamber API.vi" Type="VI" URL="../Libraries/Environment Chamber/Test Environment Chamber API.vi"/>
 			<Item Name="Test Func Generator API.vi" Type="VI" URL="../Libraries/Func Generator/Test Func Generator API.vi"/>
 			<Item Name="Test Oscilloscope API.vi" Type="VI" URL="../Libraries/Oscilloscope/Test Oscilloscope API.vi"/>
 			<Item Name="Test S-Matrix API.vi" Type="VI" URL="../Libraries/S-Matrix/Test S-Matrix API.vi"/>
+			<Item Name="Test Environment Chamber API.vi" Type="VI" URL="../Libraries/Environment Chamber/Test Environment Chamber API.vi"/>
+			<Item Name="Test CVT API.vi" Type="VI" URL="../Libraries/CVT/Test CVT API.vi"/>
 			<Item Name="Test User Interface API.vi" Type="VI" URL="../Libraries/User Interface/Test User Interface API.vi"/>
 		</Item>
 		<Item Name="Start up.vi" Type="VI" URL="../Start up.vi"/>
@@ -77,6 +79,7 @@
 				<Item Name="Convert property node font to graphics font.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Convert property node font to graphics font.vi"/>
 				<Item Name="Create New Rendezvous.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/Create New Rendezvous.vi"/>
 				<Item Name="Create Rendezvous.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/Create Rendezvous.vi"/>
+				<Item Name="Current Value Table.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Current Value Table/Current Value Table.lvlib"/>
 				<Item Name="DAQmx Clear Task.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Clear Task.vi"/>
 				<Item Name="DAQmx Create Channel (AI-Acceleration-4 Wire DC Voltage).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/create/channels.llb/DAQmx Create Channel (AI-Acceleration-4 Wire DC Voltage).vi"/>
 				<Item Name="DAQmx Create Channel (AI-Acceleration-Accelerometer).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/create/channels.llb/DAQmx Create Channel (AI-Acceleration-Accelerometer).vi"/>

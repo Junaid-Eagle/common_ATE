@@ -113,7 +113,11 @@
 	</Item>
 	<Item Name="Control" Type="Folder">
 		<Item Name="Message Data.ctl" Type="VI" URL="../Message Data.ctl"/>
+		<Item Name="Scope Config Setting.ctl" Type="VI" URL="../Scope Config Setting.ctl"/>
 		<Item Name="Channel Setting.ctl" Type="VI" URL="../Channel Setting.ctl"/>
+	</Item>
+	<Item Name="Sub VI" Type="Folder">
+		<Item Name="Update Inst Config.vi" Type="VI" URL="../Update Inst Config.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>

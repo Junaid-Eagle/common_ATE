@@ -103,6 +103,10 @@
 	</Item>
 	<Item Name="Control" Type="Folder">
 		<Item Name="Instrument Setting.ctl" Type="VI" URL="../Instrument Setting.ctl"/>
+		<Item Name="Inst Config Parameter.ctl" Type="VI" URL="../Inst Config Parameter.ctl"/>
+	</Item>
+	<Item Name="Sub VI" Type="Folder">
+		<Item Name="Update Inst Config.vi" Type="VI" URL="../Update Inst Config.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>

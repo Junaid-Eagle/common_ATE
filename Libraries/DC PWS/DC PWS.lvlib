@@ -102,6 +102,12 @@
 		<Item Name="Wait on Event Sync.vi" Type="VI" URL="../Wait on Event Sync.vi"/>
 		<Item Name="Wait on Module Sync.vi" Type="VI" URL="../Wait on Module Sync.vi"/>
 	</Item>
+	<Item Name="Sub VI" Type="Folder">
+		<Item Name="Update Inst Config.vi" Type="VI" URL="../Update Inst Config.vi"/>
+	</Item>
+	<Item Name="Control" Type="Folder">
+		<Item Name="Inst Config Setting.ctl" Type="VI" URL="../Inst Config Setting.ctl"/>
+	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>

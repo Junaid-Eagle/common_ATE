@@ -111,7 +111,11 @@
 		<Item Name="Climatic Chamber.lvlib" Type="Library" URL="../../../Support Libraries/Climatic Chamber/Climatic Chamber.lvlib"/>
 	</Item>
 	<Item Name="Control" Type="Folder">
+		<Item Name="ESPEC Config Parameter.ctl" Type="VI" URL="../ESPEC Config Parameter.ctl"/>
 		<Item Name="Configure Parameter.ctl" Type="VI" URL="../Configure Parameter.ctl"/>
+	</Item>
+	<Item Name="Sub VI" Type="Folder">
+		<Item Name="ESPEC config.vi" Type="VI" URL="../ESPEC config.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
