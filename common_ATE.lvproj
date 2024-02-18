@@ -43,6 +43,7 @@
 			<Item Name="Test User Interface API.vi" Type="VI" URL="../Libraries/User Interface/Test User Interface API.vi"/>
 		</Item>
 		<Item Name="Start up.vi" Type="VI" URL="../Start up.vi"/>
+		<Item Name="Update AO AE.vi" Type="VI" URL="../Libraries/User Interface/Update AO AE.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="Agilent 33XXX Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Agilent 33XXX Series.lvlib"/>
