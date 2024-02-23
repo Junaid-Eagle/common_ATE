@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="21008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*(!!!*Q(C=\&gt;5^&lt;NN!%)&lt;B,U%+RZVO%/A'RF1J!_A+P%!#4-^+L1%X;E-AR1!_A;[A+]Q6&gt;!6&gt;18FX/;&amp;F',#;*!A#\XJF]O0_0&amp;Z3N.4,D@2"ZWNF@,7U[X/H_GDH9W`T]8R_(H`^\I&gt;T8=;0&amp;[&gt;,DX':^@HY];,XS`7@LF_EL`KP&amp;,W6N`*`F`OL8Y)``DVYJ`9CIC5N;%YTN7803:\E3:\E3:\E12\E12\E12\E4O\E4O\E4O\E2G\E2G\E2G\EP:+,8/1CBZ1MHCS54*J-E(3'IO1D]33?R*.Y/&amp;8C34S**`%E(LII]33?R*.Y%A`$F(A34_**0)G(K&lt;IE?S8(EXC98I%H]!3?Q".Y7&amp;+"*Q!%CQ54"Z0!5(!R/!A]A3@Q=+D!%XA#4_!*0&amp;R7Y!E]A3@Q""['^&amp;W*LGG6(!`4S0%Y(M@D?"Q05]PR/"\(YXA=$]P*]4A?"_%M[%Q/1=YAJY.TYHA=$\`E?"S0YX%]DI&gt;,`1ZZXZGG;:5=D_%R0)&lt;(]"A?JJ$B-4S'R`!9(K;6Y4%]BM@Q'"[7EO%R0)&lt;(A"C,MLS-S9S"2C=D-$T]^+@&amp;_FW+,L&amp;?J8JY61_F[G&amp;4053KBU.VUV5X5X746*OPWF46:KEW1@8(K&gt;!KD'I2V?$753=_D\1$&lt;5`&lt;U&lt;;UA&lt;;BL7GL.P1X&gt;TS&gt;4DI?DTI=$NLP^^LN&gt;NJONRK'1:P.2OPV7KP6;HE.@+)O,Y4ZP840]?/X\Z_H;@AS0@SYG[&lt;&lt;DY^@&lt;]?7`Y8`T``!OV(P&gt;&lt;E'?`14W2?'6!!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
+<Library LVVersion="16008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*(!!!*Q(C=\&gt;5^&lt;NN!%)&lt;B,U%+RZVO%/A'RF1J!_A+P%!#4-^+L1%X;E-AR1!_A;[A+]Q6&gt;!6&gt;18FX/;&amp;F',#;*!A#\XJF]O0_0&amp;Z3N.4,D@2"ZWNF@,7U[X/H_GDH9W`T]8R_(H`^\I&gt;T8=;0&amp;[&gt;,DX':^@HY];,XS`7@LF_EL`KP&amp;,W6N`*`F`OL8Y)``DVYJ`9CIC5N;%YTN7803:\E3:\E3:\E12\E12\E12\E4O\E4O\E4O\E2G\E2G\E2G\EP:+,8/1CBZ1MHCS54*J-E(3'IO1D]33?R*.Y/&amp;8C34S**`%E(LII]33?R*.Y%A`$F(A34_**0)G(K&lt;IE?S8(EXC98I%H]!3?Q".Y7&amp;+"*Q!%CQ54"Z0!5(!R/!A]A3@Q=+D!%XA#4_!*0&amp;R7Y!E]A3@Q""['^&amp;W*LGG6(!`4S0%Y(M@D?"Q05]PR/"\(YXA=$]P*]4A?"_%M[%Q/1=YAJY.TYHA=$\`E?"S0YX%]DI&gt;,`1ZZXZGG;:5=D_%R0)&lt;(]"A?JJ$B-4S'R`!9(K;6Y4%]BM@Q'"[7EO%R0)&lt;(A"C,MLS-S9S"2C=D-$T]^+@&amp;_FW+,L&amp;?J8JY61_F[G&amp;4053KBU.VUV5X5X746*OPWF46:KEW1@8(K&gt;!KD'I2V?$753=_D\1$&lt;5`&lt;U&lt;;UA&lt;;BL7GL.P1X&gt;TS&gt;4DI?DTI=$NLP^^LN&gt;NJONRK'1:P.2OPV7KP6;HE.@+)O,Y4ZP840]?/X\Z_H;@AS0@SYG[&lt;&lt;DY^@&lt;]?7`Y8`T``!OV(P&gt;&lt;E'?`14W2?'6!!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -27,6 +27,9 @@
 				<Item Name="REQ Measurement Argument--cluster.ctl" Type="VI" URL="../REQ Measurement Argument--cluster.ctl"/>
 				<Item Name="REQ Measurement (Reply Payload)--cluster.ctl" Type="VI" URL="../REQ Measurement (Reply Payload)--cluster.ctl"/>
 				<Item Name="REQ Close Ref Argument--cluster.ctl" Type="VI" URL="../REQ Close Ref Argument--cluster.ctl"/>
+				<Item Name="REQ Wakeup_help_loop Argument--cluster.ctl" Type="VI" URL="../REQ Wakeup_help_loop Argument--cluster.ctl"/>
+				<Item Name="REQ DC Parameter Argument--cluster.ctl" Type="VI" URL="../REQ DC Parameter Argument--cluster.ctl"/>
+				<Item Name="REQ Retry DC PWS Argument--cluster.ctl" Type="VI" URL="../REQ Retry DC PWS Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -47,6 +50,9 @@
 			<Item Name="REQ Enable Output.vi" Type="VI" URL="../REQ Enable Output.vi"/>
 			<Item Name="REQ Measurement.vi" Type="VI" URL="../REQ Measurement.vi"/>
 			<Item Name="REQ Close Ref.vi" Type="VI" URL="../REQ Close Ref.vi"/>
+			<Item Name="REQ Wakeup_help_loop.vi" Type="VI" URL="../REQ Wakeup_help_loop.vi"/>
+			<Item Name="REQ DC Parameter.vi" Type="VI" URL="../REQ DC Parameter.vi"/>
+			<Item Name="REQ Retry DC PWS.vi" Type="VI" URL="../REQ Retry DC PWS.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>

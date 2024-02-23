@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="21008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)M!!!*Q(C=\&gt;7R=&gt;N!%)8B2Y]$J]SMT/&lt;9&amp;7Q,$.1!-]7&lt;+W++%#W]&amp;NA#7^A7W!*&lt;I(_=&gt;D1-/'*C?T1;X7EF]"VQ^_E!1&gt;*IX[3PONRLTW_W[`(F_,,UK`$[M%@(U?XRZTPD08:\`/8YD@(&lt;`DN.H_WT@?QWX@UD_/&gt;`"SMN,S+K+&amp;.*B::F,U6?Z%6?Z%6?Z#9XO=F.&lt;H+4*XG3*XG3*XG3"XG1"XG1"XG1DUYO=J',(&amp;+R?,&amp;1-7ER18%S&amp;"8@#E`B+4S&amp;BY]K0)7H]"3?QM-J+DS&amp;J`!5HM,$:3I]B;@Q&amp;*\#QV2$5K/4YSE]4#`D-2\D-2\D95E:DQ'9R=T%:B)9-I0GQ(C-RXAYF0%9D`%9D`%Q,/-R(O-R(O0BEL%L(JKFE_.B'C7?R*.Y%E`C97IFHM34?"*0YG%Z*:\%ES#3":0*)3CZ+$EB_:"Y%A]`F(A34_**0)G(I8'(=OT-IFE[/:\!%XA#4_!*0%SBQ".Y!E`A#4R-K]!4?!*0Y!E],+8!%XA#4Q!*&amp;G6Z":-&amp;&amp;Q9H"5(AY7M],4(OEI=E2J@[Y65`F/K(4@U1K2]/^5V8XUTV46*PPHJ4V:OFXA4V,[&gt;'KT(K2&gt;18,S@KT0=4&gt;;1/V%TNK2WVJ4&lt;5?LHU,Z^Y0J^V/JVU0"ZV/"QUT\0W_\VWOZWWW[UWGYX7[`8L;_!(`@7&amp;]0*?GDC?(JZ7U_`(V@34_D7PJO]5_8`Y``Q/XIX[IOMVW+-`OIZT4!!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
+<Library LVVersion="16008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)M!!!*Q(C=\&gt;7R=&gt;N!%)8B2Y]$J]SMT/&lt;9&amp;7Q,$.1!-]7&lt;+W++%#W]&amp;NA#7^A7W!*&lt;I(_=&gt;D1-/'*C?T1;X7EF]"VQ^_E!1&gt;*IX[3PONRLTW_W[`(F_,,UK`$[M%@(U?XRZTPD08:\`/8YD@(&lt;`DN.H_WT@?QWX@UD_/&gt;`"SMN,S+K+&amp;.*B::F,U6?Z%6?Z%6?Z#9XO=F.&lt;H+4*XG3*XG3*XG3"XG1"XG1"XG1DUYO=J',(&amp;+R?,&amp;1-7ER18%S&amp;"8@#E`B+4S&amp;BY]K0)7H]"3?QM-J+DS&amp;J`!5HM,$:3I]B;@Q&amp;*\#QV2$5K/4YSE]4#`D-2\D-2\D95E:DQ'9R=T%:B)9-I0GQ(C-RXAYF0%9D`%9D`%Q,/-R(O-R(O0BEL%L(JKFE_.B'C7?R*.Y%E`C97IFHM34?"*0YG%Z*:\%ES#3":0*)3CZ+$EB_:"Y%A]`F(A34_**0)G(I8'(=OT-IFE[/:\!%XA#4_!*0%SBQ".Y!E`A#4R-K]!4?!*0Y!E],+8!%XA#4Q!*&amp;G6Z":-&amp;&amp;Q9H"5(AY7M],4(OEI=E2J@[Y65`F/K(4@U1K2]/^5V8XUTV46*PPHJ4V:OFXA4V,[&gt;'KT(K2&gt;18,S@KT0=4&gt;;1/V%TNK2WVJ4&lt;5?LHU,Z^Y0J^V/JVU0"ZV/"QUT\0W_\VWOZWWW[UWGYX7[`8L;_!(`@7&amp;]0*?GDC?(JZ7U_`(V@34_D7PJO]5_8`Y``Q/XIX[IOMVW+-`OIZT4!!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -19,6 +19,7 @@
 				<Item Name="Hide Panel Argument--cluster.ctl" Type="VI" URL="../Hide Panel Argument--cluster.ctl"/>
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
 				<Item Name="REQ DC PWS Connect Argument--cluster.ctl" Type="VI" URL="../REQ DC PWS Connect Argument--cluster.ctl"/>
+				<Item Name="REQ Write AO Data Argument--cluster.ctl" Type="VI" URL="../REQ Write AO Data Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -33,6 +34,7 @@
 			<Item Name="Get Module Execution Status.vi" Type="VI" URL="../Get Module Execution Status.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="REQ DC PWS Connect.vi" Type="VI" URL="../REQ DC PWS Connect.vi"/>
+			<Item Name="REQ Write AO Data.vi" Type="VI" URL="../REQ Write AO Data.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -74,6 +76,9 @@
 		<Item Name="Open VI Panel.vi" Type="VI" URL="../Open VI Panel.vi"/>
 		<Item Name="Request and Wait for Reply Timeout--error.vi" Type="VI" URL="../Request and Wait for Reply Timeout--error.vi"/>
 	</Item>
+	<Item Name="Support Library" Type="Folder">
+		<Item Name="Current Value Table.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Current Value Table/Current Value Table.lvlib"/>
+	</Item>
 	<Item Name="Module Sync" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Semaphore" Type="Folder">
@@ -91,7 +96,16 @@
 	<Item Name="Control" Type="Folder">
 		<Item Name="Input Command.ctl" Type="VI" URL="../Input Command.ctl"/>
 	</Item>
-	<Item Name="Sub VI" Type="Folder"/>
+	<Item Name="Sub VI" Type="Folder">
+		<Item Name="Create AI Group.vi" Type="VI" URL="../Create AI Group.vi"/>
+		<Item Name="Create General Tag.vi" Type="VI" URL="../Create General Tag.vi"/>
+		<Item Name="Creating Instr Tag.vi" Type="VI" URL="../Creating Instr Tag.vi"/>
+		<Item Name="Create ESPEC Temp Tag.vi" Type="VI" URL="../Create ESPEC Temp Tag.vi"/>
+		<Item Name="Create Humi Tag.vi" Type="VI" URL="../Create Humi Tag.vi"/>
+		<Item Name="Create ESPEC Tag.vi" Type="VI" URL="../Create ESPEC Tag.vi"/>
+		<Item Name="Create DI Tag.vi" Type="VI" URL="../Create DI Tag.vi"/>
+		<Item Name="Create AO Group.vi" Type="VI" URL="../Create AO Group.vi"/>
+	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>

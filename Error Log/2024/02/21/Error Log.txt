@@ -1,0 +1,324 @@
+Date	Time	Error Code	Error Message
+21-02-24	17:13:59	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:13:59	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:14:25	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:14:25	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:15:10	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:15:10	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:15:25	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:15:25	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:15:35	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+21-02-24	17:15:35	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+21-02-24	17:15:35	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+21-02-24	17:15:37	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:38	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:39	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:40	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:41	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:42	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:43	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:44	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:45	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:46	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:47	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:48	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:49	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:50	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:51	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:52	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:53	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:54	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:55	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:56	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:57	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:58	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:15:59	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:00	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:01	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:02	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:03	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:04	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:05	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:05	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+21-02-24	17:16:06	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+21-02-24	17:16:07	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:08	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:09	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:10	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:11	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:12	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:13	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:14	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:15	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:16	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:17	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:18	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:19	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:20	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:21	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:22	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:23	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:24	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:25	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:26	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:27	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:28	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:29	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:30	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:31	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:32	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:33	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:34	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:35	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:36	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:37	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:38	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:39	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:40	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:41	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:42	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:43	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:44	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:45	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:46	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:47	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:48	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:49	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:50	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:51	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:52	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:53	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:54	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:55	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:56	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:57	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:58	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:16:59	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:17:00	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:17:01	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:17:02	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:17:03	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:17:04	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:17:05	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:17:06	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:17:07	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:17:08	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:17:09	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:17:10	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:17:11	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:17:12	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:17:13	-200089	DAQmx Create Task.vi:4440001<append>
+<B>Task Name: </B>AI_Task<DQMH>MHL Frame: REQ Retry AI</DQMH>
+21-02-24	17:17:34	-200089	DAQmx Create Task.vi:4440005<append>
+<B>Task Name: </B>6515_DI_Task<DQMH>MHL Frame: REQ Initialize DI</DQMH>
+21-02-24	17:17:35	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:17:35	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:22:37	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:22:37	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:44:39	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:44:39	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:44:51	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+21-02-24	17:45:41	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:45:41	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:46:21	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:46:21	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:47:28	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:47:28	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:48:02	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+21-02-24	17:49:55	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:49:55	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	17:50:10	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+21-02-24	18:12:22	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	18:12:22	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	18:12:33	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+21-02-24	18:20:42	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	18:20:42	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	18:21:40	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	18:21:40	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	18:22:50	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	18:22:50	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	18:24:31	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	18:24:31	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	18:26:06	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	18:26:06	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	18:26:30	91	Variant To Data in Func Generator.lvlib:Agilent 33210A.lvclass:Configure Standard Waveform.vi->Func Generator.lvlib:Main.vi->Func Generator.lvlib:Main.vi.ACBRProxyCaller.6C100069<DQMH>MHL Frame: REQ Config Std Waveform</DQMH>
+21-02-24	18:26:30	91	Variant To Data in DMM.lvlib:Agilent 34401A.lvclass:Close Ref.vi->DMM.lvlib:Main.vi->DMM.lvlib:Main.vi.ACBRProxyCaller.6BF00086<DQMH>MHL Frame: REQ Close Ref</DQMH>
+21-02-24	18:26:32	-1073807346	VISA Write in Agilent 34401.lvlib:Error Query.vi->Agilent 34401.lvlib:Close.vi->DMM.lvlib:Agilent 34401A.lvclass:Close Ref.vi->DMM.lvlib:Main.vi->DMM.lvlib:Main.vi.ACBRProxyCaller.6BF00086<DQMH>MHL Frame: REQ Close Ref</DQMH>
+21-02-24	18:35:30	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	18:35:30	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	18:37:23	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+21-02-24	18:39:04	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	18:39:04	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+21-02-24	18:39:40	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
