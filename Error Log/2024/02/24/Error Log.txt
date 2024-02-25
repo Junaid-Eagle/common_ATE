@@ -1,0 +1,33 @@
+Date	Time	Error Code	Error Message
+2/24/2024	1:21:19 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+2/24/2024	1:21:19 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+2/24/2024	1:23:16 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+2/24/2024	1:23:16 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+2/24/2024	1:27:22 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+2/24/2024	1:27:22 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+2/24/2024	1:27:39 PM	-1074384758	XNET Create Session (Signal Input Single-point).vi:6590002<APPEND>
+
+<b>Complete call chain:</b>
+     XNET Create Session (Signal Input Single-point).vi:6590002
+     CAN.lvlib:PXI 8513.lvclass:Get Channel Data.vi
+     CAN.lvlib:Main.vi
+     CAN.lvlib:Main.vi.ACBRProxyCaller.6CF000A9<DQMH>Message Handling Loop</DQMH>
+2/24/2024	1:27:39 PM	91	Variant To Data in CAN.lvlib:PXI 8513.lvclass:Close Ref.vi->CAN.lvlib:Main.vi->CAN.lvlib:Main.vi.ACBRProxyCaller.6CF000A9<DQMH>MHL Frame: REQ Close Ref</DQMH>
+2/24/2024	1:28:00 PM	-1074384758	XNET Create Session (Signal Input Single-point).vi:6590002<APPEND>
+
+<b>Complete call chain:</b>
+     XNET Create Session (Signal Input Single-point).vi:6590002
+     CAN.lvlib:PXI 8513.lvclass:Get Channel Data.vi
+     CAN.lvlib:Main.vi
+     CAN.lvlib:Main.vi.ACBRProxyCaller.6CF000A9<DQMH>Message Handling Loop</DQMH>
+2/24/2024	1:28:00 PM	91	Variant To Data in CAN.lvlib:PXI 8513.lvclass:Close Ref.vi->CAN.lvlib:Main.vi->CAN.lvlib:Main.vi.ACBRProxyCaller.6CF000A9<DQMH>MHL Frame: REQ Close Ref</DQMH>
+2/24/2024	1:28:17 PM	-1074384758	XNET Create Session (Signal Input Single-point).vi:6590002<APPEND>
+
+<b>Complete call chain:</b>
+     XNET Create Session (Signal Input Single-point).vi:6590002
+     CAN.lvlib:PXI 8513.lvclass:Get Channel Data.vi
+     CAN.lvlib:Main.vi
+     CAN.lvlib:Main.vi.ACBRProxyCaller.6CF000A9<DQMH>Message Handling Loop</DQMH>
+2/24/2024	1:28:17 PM	91	Variant To Data in CAN.lvlib:PXI 8513.lvclass:Close Ref.vi->CAN.lvlib:Main.vi->CAN.lvlib:Main.vi.ACBRProxyCaller.6CF000A9<DQMH>MHL Frame: REQ Close Ref</DQMH>
+2/24/2024	1:30:01 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+2/24/2024	1:30:01 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>

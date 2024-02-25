@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="16008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)A!!!*Q(C=\&gt;7\&lt;2N"&amp;)8B)]/"5TJW9,#&amp;WQ*&lt;9!MX&gt;]35)5/HJQ7WQ":O#Q2=!6OA`RF@%*2AC)%?%!4/=J;\:_@R;8;ZEG&lt;Z*HX6_6&lt;Z^7SZPDY&lt;0_HR[0LYT.VTVV`1`]&lt;]``@@+,K8?`H=:8PT2`$GPY-(D2=2N;CG*D5UJDU8?:%8?:%8?:'&lt;X/1G.\H*4:\E3:\E3:\E32\E12\E12\E14YX=J',8/31CMG,C9J"CQ'+RF"5\!J0Y3E]B9&gt;4&amp;:\#5XA+4_'BC1J0Y3E]B;@QU%W&amp;J`!5HM*4?"BK3GJOZ(A+$]0,?)T(?)T(?*B3RG-!:D)TM"E%BMR&amp;=W!]RG-](-JYD-&gt;YD-&gt;YO#TD-2\D-2\DI=N=&amp;5`.W-DR-)Q34_**0)EH]4#U%E`C34S**`%QH2*0YEE1S94*Y"#5&gt;%I;*#?**`(QJ=34?"*0YEE]8*JX+/@+$-X9S0%%HM!4?!*0Y'%)":\!%XA#4_"B7!7?Q".Y!E`A93I&amp;HM!4?!*)-#H4+RAM["AU#I,!QW=_,4(PEK=EZC&lt;VQ[N_+.50G`IB5D]=[JOOPJHKG[2?@07CKB&gt;,P1DK0U[.6G05E[A\DY9[M4^3$^1^&gt;5@&gt;5.@5&amp;86*89SOL^TQ&gt;$LJ?$TK=$BIP^^LN^NJM^FIP6ZLN6JJO6RKM6B=8A-`W3YPB(`PJ3X(WR^`(L&lt;@@V0\?ZS4P]0`ZQ`Q&lt;N188=`"'PU&amp;`$&amp;V=1!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
+<Library LVVersion="21008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)A!!!*Q(C=\&gt;7\&lt;2N"&amp;)8B)]/"5TJW9,#&amp;WQ*&lt;9!MX&gt;]35)5/HJQ7WQ":O#Q2=!6OA`RF@%*2AC)%?%!4/=J;\:_@R;8;ZEG&lt;Z*HX6_6&lt;Z^7SZPDY&lt;0_HR[0LYT.VTVV`1`]&lt;]``@@+,K8?`H=:8PT2`$GPY-(D2=2N;CG*D5UJDU8?:%8?:%8?:'&lt;X/1G.\H*4:\E3:\E3:\E32\E12\E12\E14YX=J',8/31CMG,C9J"CQ'+RF"5\!J0Y3E]B9&gt;4&amp;:\#5XA+4_'BC1J0Y3E]B;@QU%W&amp;J`!5HM*4?"BK3GJOZ(A+$]0,?)T(?)T(?*B3RG-!:D)TM"E%BMR&amp;=W!]RG-](-JYD-&gt;YD-&gt;YO#TD-2\D-2\DI=N=&amp;5`.W-DR-)Q34_**0)EH]4#U%E`C34S**`%QH2*0YEE1S94*Y"#5&gt;%I;*#?**`(QJ=34?"*0YEE]8*JX+/@+$-X9S0%%HM!4?!*0Y'%)":\!%XA#4_"B7!7?Q".Y!E`A93I&amp;HM!4?!*)-#H4+RAM["AU#I,!QW=_,4(PEK=EZC&lt;VQ[N_+.50G`IB5D]=[JOOPJHKG[2?@07CKB&gt;,P1DK0U[.6G05E[A\DY9[M4^3$^1^&gt;5@&gt;5.@5&amp;86*89SOL^TQ&gt;$LJ?$TK=$BIP^^LN^NJM^FIP6ZLN6JJO6RKM6B=8A-`W3YPB(`PJ3X(WR^`(L&lt;@@V0\?ZS4P]0`ZQ`Q&lt;N188=`"'PU&amp;`$&amp;V=1!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -36,6 +36,7 @@
 				<Item Name="REQ Retry DB Argument--cluster.ctl" Type="VI" URL="../REQ Retry DB Argument--cluster.ctl"/>
 				<Item Name="REQ DB Setup Argument--cluster.ctl" Type="VI" URL="../REQ DB Setup Argument--cluster.ctl"/>
 				<Item Name="REQ DB Setup (Reply Payload)--cluster.ctl" Type="VI" URL="../REQ DB Setup (Reply Payload)--cluster.ctl"/>
+				<Item Name="REQ Write Test Info Argument--cluster.ctl" Type="VI" URL="../REQ Write Test Info Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -62,6 +63,7 @@
 			<Item Name="REQ Close DB Ref.vi" Type="VI" URL="../REQ Close DB Ref.vi"/>
 			<Item Name="REQ Retry DB.vi" Type="VI" URL="../REQ Retry DB.vi"/>
 			<Item Name="REQ DB Setup.vi" Type="VI" URL="../REQ DB Setup.vi"/>
+			<Item Name="REQ Write Test Info.vi" Type="VI" URL="../REQ Write Test Info.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
