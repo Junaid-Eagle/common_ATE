@@ -1,0 +1,487 @@
+Date	Time	Error Code	Error Message
+08-03-24	10:14:32	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	10:14:32	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	10:14:32	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+08-03-24	10:14:32	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	10:14:32	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	10:14:32	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	10:14:32	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	10:14:32	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	10:14:33	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	10:14:33	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	10:14:33	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	10:14:33	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	10:14:33	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:48:20	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:48:20	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:48:20	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:48:20	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:48:20	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:48:20	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:48:20	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:48:20	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:48:20	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:48:21	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:48:21	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:48:21	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:51:02	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+08-03-24	11:55:05	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:55:05	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:55:05	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:55:05	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:55:05	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:55:05	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:55:05	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:55:06	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:55:06	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:55:06	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:55:06	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	11:55:06	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:09:29	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:09:30	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:09:30	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:09:30	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:09:30	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:09:30	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:09:30	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:09:30	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:09:30	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:09:30	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:09:30	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:09:30	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:10:40	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:10:40	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:10:40	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:10:40	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:10:40	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:10:41	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:10:41	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:10:41	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:10:41	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:10:41	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:10:41	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:10:41	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:13:38	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:13:38	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:13:38	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:13:38	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:13:38	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:13:38	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:13:38	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:13:38	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:13:38	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:13:38	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:13:38	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:13:39	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:13:51	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+08-03-24	12:15:56	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:15:56	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:15:56	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:15:56	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:15:56	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:15:56	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:15:56	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:15:56	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:15:56	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:15:57	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:15:57	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:15:57	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:16:09	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+08-03-24	12:18:26	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:18:26	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:18:27	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:18:27	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:18:27	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:18:27	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:18:27	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:18:27	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:18:27	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:18:27	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:18:27	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:18:27	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:18:42	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+08-03-24	12:19:45	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:19:45	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:19:46	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:19:46	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:19:46	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:19:46	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:19:46	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:19:46	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:19:46	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:19:46	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:19:46	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:19:46	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:19:59	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+08-03-24	12:23:42	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:23:43	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:23:43	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:23:43	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:23:43	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:23:43	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:23:43	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:23:43	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:23:43	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:23:43	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:23:43	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:23:44	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:26:43	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:26:43	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:26:44	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:26:55	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:26:55	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:26:56	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:36:39	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:36:40	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:36:40	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:36:40	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:36:40	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:36:40	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:36:40	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:36:40	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:36:40	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:36:40	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:36:40	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:36:40	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:41:47	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:41:47	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:41:47	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:41:48	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:41:48	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:41:48	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:41:48	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:41:48	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:41:48	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:41:48	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:41:48	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	12:41:48	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:26:27	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:26:28	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:26:28	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:26:28	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:26:28	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:26:28	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:26:28	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:26:28	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:26:28	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:26:28	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:26:28	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:26:28	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:30:53	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:30:53	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:30:53	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:30:53	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:30:54	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:30:54	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:30:54	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:30:54	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:30:54	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:30:54	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:30:54	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:30:54	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:45:20	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:45:20	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:45:20	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:45:20	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:45:20	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:45:20	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:45:20	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:45:20	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:45:20	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:45:21	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:45:21	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:45:21	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	14:45:35	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+08-03-24	16:39:20	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:39:21	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:39:21	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:39:21	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:39:21	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:39:21	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:39:21	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:39:21	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:39:21	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:39:21	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:39:21	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:39:21	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:41:00	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:41:00	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:41:00	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:41:00	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:41:00	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:41:00	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:41:00	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:41:00	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:41:00	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:41:00	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:41:00	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:41:01	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:43:20	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:43:21	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:43:21	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:43:21	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:43:21	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:43:21	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:43:21	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:43:21	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:43:21	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:43:21	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:43:21	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:43:21	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:46:53	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:46:53	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:46:53	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:46:53	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:46:53	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:46:53	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:46:53	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:46:53	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:46:54	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:46:54	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:46:54	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:46:54	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:47:11	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+08-03-24	16:54:13	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:54:13	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:54:13	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:54:13	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:54:13	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:54:13	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:54:13	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:54:13	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:54:14	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:54:14	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:54:14	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	16:54:14	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:06:55	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:06:56	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:06:56	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:06:56	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:06:56	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:06:56	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:06:56	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:06:56	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:06:56	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:06:56	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:06:56	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:06:56	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:07:41	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:07:41	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:07:41	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:07:42	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:07:42	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:07:42	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:07:42	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:07:42	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:07:42	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:07:42	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:07:42	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:07:42	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:08:59	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:08:59	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:08:59	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:08:59	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:08:59	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:08:59	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:08:59	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:08:59	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:08:59	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:08:59	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:08:59	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:09:00	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:12:37	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:12:37	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:12:37	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:12:38	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:12:38	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:12:38	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:12:38	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:12:38	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:12:38	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:12:38	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:12:38	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:12:38	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:47:24	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:47:24	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:47:24	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:47:24	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:47:24	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:47:24	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:47:24	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:47:24	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:47:24	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:47:25	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:47:25	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	17:47:25	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:06:22	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:06:22	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:06:22	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:06:23	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:06:23	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:06:23	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:06:23	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:06:23	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:06:23	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:06:23	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:06:23	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:06:23	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:06:36	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+08-03-24	18:08:38	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:08:38	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:08:39	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:08:39	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:08:39	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:08:39	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:08:39	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:08:39	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:08:39	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:08:39	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:08:39	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:08:39	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:10:33	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:10:33	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:10:33	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:10:33	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:10:34	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:10:34	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:10:34	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:10:34	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:10:34	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:10:34	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:10:34	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:10:34	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:10:45	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+08-03-24	18:14:07	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:14:07	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:14:07	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:14:07	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:14:07	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:14:08	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:14:08	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:14:08	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:14:08	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:14:08	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:14:08	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:14:08	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:14:19	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+08-03-24	18:27:14	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:27:14	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:27:14	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:27:14	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:27:14	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:27:14	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:27:14	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:27:14	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:27:14	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:27:14	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:27:15	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:27:15	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:30:49	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:30:49	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:30:49	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:30:49	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:30:49	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:30:49	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:30:49	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:30:49	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:30:50	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:30:50	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:30:50	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:30:50	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:33:07	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:33:07	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:33:08	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:33:08	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:33:08	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:33:08	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:33:08	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:33:08	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:33:08	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:33:08	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:33:08	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:33:09	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:36:36	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:36:36	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:36:36	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:36:36	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:36:36	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:36:37	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:36:37	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:36:37	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:36:37	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:36:37	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+08-03-24	18:36:37	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>

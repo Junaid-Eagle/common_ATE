@@ -26,6 +26,8 @@
 				<Item Name="REQ Read Single Meas (Reply Payload)--cluster.ctl" Type="VI" URL="../REQ Read Single Meas (Reply Payload)--cluster.ctl"/>
 				<Item Name="REQ Self Test Argument--cluster.ctl" Type="VI" URL="../REQ Self Test Argument--cluster.ctl"/>
 				<Item Name="REQ Retry DMM Argument--cluster.ctl" Type="VI" URL="../REQ Retry DMM Argument--cluster.ctl"/>
+				<Item Name="REQ Waveup_helper_loop Argument--cluster.ctl" Type="VI" URL="../REQ Waveup_helper_loop Argument--cluster.ctl"/>
+				<Item Name="REQ Acquire DMM Argument--cluster.ctl" Type="VI" URL="../REQ Acquire DMM Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -45,6 +47,8 @@
 			<Item Name="REQ Read Single Meas.vi" Type="VI" URL="../REQ Read Single Meas.vi"/>
 			<Item Name="REQ Self Test.vi" Type="VI" URL="../REQ Self Test.vi"/>
 			<Item Name="REQ Retry DMM.vi" Type="VI" URL="../REQ Retry DMM.vi"/>
+			<Item Name="REQ Waveup_helper_loop.vi" Type="VI" URL="../REQ Waveup_helper_loop.vi"/>
+			<Item Name="REQ Acquire DMM.vi" Type="VI" URL="../REQ Acquire DMM.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>

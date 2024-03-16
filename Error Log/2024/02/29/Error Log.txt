@@ -1,0 +1,238 @@
+Date	Time	Error Code	Error Message
+29-02-24	11:17:24	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:17:24	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:17:24	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+29-02-24	11:17:24	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:17:24	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:17:24	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:17:24	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:17:24	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:17:24	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:17:24	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:17:25	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:17:25	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:17:25	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:17:41	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+29-02-24	11:31:02	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:31:02	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:31:02	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+29-02-24	11:31:02	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:31:02	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:31:02	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:31:03	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:31:03	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:31:03	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:31:03	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:31:03	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:31:03	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	11:31:03	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:17:44	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:17:44	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:17:44	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+29-02-24	12:17:44	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:17:44	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:17:44	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:17:44	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:17:44	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:17:44	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:17:44	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:17:44	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:17:45	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:17:45	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:18:00	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+29-02-24	12:23:10	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:23:10	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:23:10	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+29-02-24	12:23:10	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:23:10	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:23:10	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:23:10	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:23:10	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:23:10	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:23:11	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:23:11	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:23:11	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:23:11	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:31:57	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:31:57	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:31:57	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+29-02-24	12:31:58	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:31:58	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:31:58	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:31:58	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:31:58	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:31:58	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:31:58	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:31:58	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:31:58	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:31:58	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:33:19	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:33:19	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:33:19	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+29-02-24	12:33:19	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:33:20	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:33:20	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:33:20	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:33:20	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:33:20	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:33:20	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:33:20	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:33:20	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:33:20	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+29-02-24	12:33:32	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+29-02-24	14:57:21	0	<DQMH>MHL Frame: REQ Add User</DQMH>
+29-02-24	14:57:31	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4C70006F<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4C70006F<DQMH>MHL Frame: REQ Close DB Ref</DQMH>
+29-02-24	14:57:31	403686	Database.lvlib:Request and Wait for Reply Timeout--error.vi:4350001<ERR>
+Database: The 'REQ DB Setup' request timed out.
+
+
+<b>Complete call chain:</b>
+     Database.lvlib:Request and Wait for Reply Timeout--error.vi:4350001
+     Database.lvlib:REQ DB Setup.vi:1030001
+     Database.lvlib:Main.vi
+     Database.lvlib:Main.vi.ACBRProxyCaller.4C70006F<DQMH>MHL Frame: REQ Retry DB</DQMH>
+29-02-24	14:57:41	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4C70006F<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4C70006F<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:57:51	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4C70006F<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4C70006F<DQMH>MHL Frame: REQ Close DB Ref</DQMH>
+29-02-24	14:57:51	403686	Database.lvlib:Request and Wait for Reply Timeout--error.vi:4350001<ERR>
+Database: The 'REQ DB Setup' request timed out.
+
+
+<b>Complete call chain:</b>
+     Database.lvlib:Request and Wait for Reply Timeout--error.vi:4350001
+     Database.lvlib:REQ DB Setup.vi:1030001
+     Database.lvlib:Main.vi
+     Database.lvlib:Main.vi.ACBRProxyCaller.4C70006F<DQMH>MHL Frame: REQ Retry DB</DQMH>
+29-02-24	14:59:12	0	<DQMH>MHL Frame: REQ Add User</DQMH>
+29-02-24	14:59:14	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: REQ Close DB Ref</DQMH>
+29-02-24	14:59:16	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:18	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:20	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:22	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:24	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:26	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:28	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:30	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:32	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:34	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:36	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:38	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:40	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:42	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:44	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:46	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:48	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:51	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:53	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:55	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:57	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	14:59:59	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	15:00:01	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	15:00:03	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	15:00:05	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	15:00:07	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	15:00:09	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	15:00:11	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	15:00:13	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	15:00:15	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	15:00:17	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	15:00:19	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	15:00:32	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	15:01:29	97	NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<ERR>ADO Error: 0x00000061
+Unknown System Error in NI_Database_API.lvlib:DB Tools Close Connection.vi->Database.lvlib:Access.lvclass:Close DB Reference.vi->Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.4E300052<DQMH>MHL Frame: Error</DQMH>
+29-02-24	15:02:25	0	<DQMH>MHL Frame: REQ Add User</DQMH>
+29-02-24	15:02:48	91	Variant To Data in Database.lvlib:Main.vi->Database.lvlib:Main.vi.ACBRProxyCaller.53500052<DQMH>MHL Frame: REQ Retry DB</DQMH>
+29-02-24	15:03:35	0	<DQMH>MHL Frame: REQ Add User</DQMH>
+29-02-24	15:04:29	0	<DQMH>MHL Frame: REQ Add User</DQMH>
+29-02-24	15:04:37	0	<DQMH>MHL Frame: REQ Add User</DQMH>
+29-02-24	17:27:28	403681	Error Log.lvlib:Module Not Running--error.vi:6400001<ERR>
+Error Log Module is not running.
+
+
+<b>Complete call chain:</b>
+     Error Log.lvlib:Module Not Running--error.vi:6400001
+     Error Log.lvlib:REQ Log Error.vi:550001
+     DMM.lvlib:Main.vi
+     DMM.lvlib:Main.vi.ACBRProxyCaller.FD00063<DQMH>MHL Frame: Error</DQMH>
+29-02-24	17:28:02	0	<DQMH>MHL Frame: REQ Self Test</DQMH>

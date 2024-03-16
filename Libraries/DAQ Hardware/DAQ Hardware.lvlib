@@ -140,14 +140,12 @@
 	</Item>
 	<Item Name="Control" Type="Folder">
 		<Item Name="DO Name.ctl" Type="VI" URL="../DO Name.ctl"/>
-		<Item Name="Data Analysis Cluster.ctl" Type="VI" URL="../Data Analysis Cluster.ctl"/>
 		<Item Name="AO Name.ctl" Type="VI" URL="../AO Name.ctl"/>
 		<Item Name="Data Analysis Main Cluster.ctl" Type="VI" URL="../Data Analysis Main Cluster.ctl"/>
 		<Item Name="AI Channel Setting.ctl" Type="VI" URL="../../User Interface/AI Channel Setting.ctl"/>
 		<Item Name="AO Channel Setting.ctl" Type="VI" URL="../AO Channel Setting.ctl"/>
 		<Item Name="DO Channel Setting.ctl" Type="VI" URL="../DO Channel Setting.ctl"/>
 		<Item Name="Message Data.ctl" Type="VI" URL="../Message Data.ctl"/>
-		<Item Name="Signal name Array.ctl" Type="VI" URL="../Signal name Array.ctl"/>
 		<Item Name="Helper Cluster.ctl" Type="VI" URL="../Helper Cluster.ctl"/>
 		<Item Name="Instrument Config.ctl" Type="VI" URL="../Instrument Config.ctl"/>
 		<Item Name="Data View Commnd.ctl" Type="VI" URL="../Data View Commnd.ctl"/>

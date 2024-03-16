@@ -27,6 +27,17 @@
 				<Item Name="REQ Create CAN Database Argument--cluster.ctl" Type="VI" URL="../REQ Create CAN Database Argument--cluster.ctl"/>
 				<Item Name="REQ Wakeup_help_CAN Argument--cluster.ctl" Type="VI" URL="../REQ Wakeup_help_CAN Argument--cluster.ctl"/>
 				<Item Name="REQ Retry CAN Argument--cluster.ctl" Type="VI" URL="../REQ Retry CAN Argument--cluster.ctl"/>
+				<Item Name="REQ Initialize Input Argument--cluster.ctl" Type="VI" URL="../REQ Initialize Input Argument--cluster.ctl"/>
+				<Item Name="REQ Initialize Input (Reply Payload)--cluster.ctl" Type="VI" URL="../REQ Initialize Input (Reply Payload)--cluster.ctl"/>
+				<Item Name="REQ Initialize Output Argument--cluster.ctl" Type="VI" URL="../REQ Initialize Output Argument--cluster.ctl"/>
+				<Item Name="REQ Initialize Output (Reply Payload)--cluster.ctl" Type="VI" URL="../REQ Initialize Output (Reply Payload)--cluster.ctl"/>
+				<Item Name="REQ Wakeup_Help_Write Argument--cluster.ctl" Type="VI" URL="../REQ Wakeup_Help_Write Argument--cluster.ctl"/>
+				<Item Name="REQ Write CAN Frame Argument--cluster.ctl" Type="VI" URL="../REQ Write CAN Frame Argument--cluster.ctl"/>
+				<Item Name="REQ Retry Output Argument--cluster.ctl" Type="VI" URL="../REQ Retry Output Argument--cluster.ctl"/>
+				<Item Name="REQ Retry Input Argument--cluster.ctl" Type="VI" URL="../REQ Retry Input Argument--cluster.ctl"/>
+				<Item Name="REQ Close Input Session Argument--cluster.ctl" Type="VI" URL="../REQ Close Input Session Argument--cluster.ctl"/>
+				<Item Name="REQ Close Output Session Argument--cluster.ctl" Type="VI" URL="../REQ Close Output Session Argument--cluster.ctl"/>
+				<Item Name="REQ Start Logging Argument--cluster.ctl" Type="VI" URL="../REQ Start Logging Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -49,6 +60,15 @@
 			<Item Name="REQ Create CAN Database.vi" Type="VI" URL="../REQ Create CAN Database.vi"/>
 			<Item Name="REQ Wakeup_help_CAN.vi" Type="VI" URL="../REQ Wakeup_help_CAN.vi"/>
 			<Item Name="REQ Retry CAN.vi" Type="VI" URL="../REQ Retry CAN.vi"/>
+			<Item Name="REQ Initialize Input.vi" Type="VI" URL="../REQ Initialize Input.vi"/>
+			<Item Name="REQ Initialize Output.vi" Type="VI" URL="../REQ Initialize Output.vi"/>
+			<Item Name="REQ Wakeup_Help_Write.vi" Type="VI" URL="../REQ Wakeup_Help_Write.vi"/>
+			<Item Name="REQ Write CAN Frame.vi" Type="VI" URL="../REQ Write CAN Frame.vi"/>
+			<Item Name="REQ Retry Output.vi" Type="VI" URL="../REQ Retry Output.vi"/>
+			<Item Name="REQ Retry Input.vi" Type="VI" URL="../REQ Retry Input.vi"/>
+			<Item Name="REQ Close Input Session.vi" Type="VI" URL="../REQ Close Input Session.vi"/>
+			<Item Name="REQ Close Output Session.vi" Type="VI" URL="../REQ Close Output Session.vi"/>
+			<Item Name="REQ Start Logging.vi" Type="VI" URL="../REQ Start Logging.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -107,9 +127,15 @@
 	</Item>
 	<Item Name="Control" Type="Folder">
 		<Item Name="CAN Data.ctl" Type="VI" URL="../CAN Data.ctl"/>
+		<Item Name="CAN Output.ctl" Type="VI" URL="../CAN Output.ctl"/>
+		<Item Name="CAN Input.ctl" Type="VI" URL="../CAN Input.ctl"/>
 		<Item Name="CAN Database Configuration.ctl" Type="VI" URL="../CAN Database Configuration.ctl"/>
 	</Item>
-	<Item Name="Sub VI" Type="Folder"/>
+	<Item Name="Sub VI" Type="Folder">
+		<Item Name="Write CAN Frame in CVT.vi" Type="VI" URL="../Write CAN Frame in CVT.vi"/>
+		<Item Name="Write CAN Data in tdms.vi" Type="VI" URL="../Write CAN Data in tdms.vi"/>
+		<Item Name="CAN Read Setting.vi" Type="VI" URL="../CAN Read Setting.vi"/>
+	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>

@@ -37,6 +37,8 @@
 				<Item Name="REQ DB Setup Argument--cluster.ctl" Type="VI" URL="../REQ DB Setup Argument--cluster.ctl"/>
 				<Item Name="REQ DB Setup (Reply Payload)--cluster.ctl" Type="VI" URL="../REQ DB Setup (Reply Payload)--cluster.ctl"/>
 				<Item Name="REQ Write Test Info Argument--cluster.ctl" Type="VI" URL="../REQ Write Test Info Argument--cluster.ctl"/>
+				<Item Name="REQ Fetch Coulmn Name Argument--cluster.ctl" Type="VI" URL="../REQ Fetch Coulmn Name Argument--cluster.ctl"/>
+				<Item Name="REQ Fetch Coulmn Name (Reply Payload)--cluster.ctl" Type="VI" URL="../REQ Fetch Coulmn Name (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -64,6 +66,7 @@
 			<Item Name="REQ Retry DB.vi" Type="VI" URL="../REQ Retry DB.vi"/>
 			<Item Name="REQ DB Setup.vi" Type="VI" URL="../REQ DB Setup.vi"/>
 			<Item Name="REQ Write Test Info.vi" Type="VI" URL="../REQ Write Test Info.vi"/>
+			<Item Name="REQ Fetch Coulmn Name.vi" Type="VI" URL="../REQ Fetch Coulmn Name.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>

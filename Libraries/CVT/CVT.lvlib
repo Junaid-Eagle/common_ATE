@@ -20,6 +20,8 @@
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
 				<Item Name="REQ DC PWS Connect Argument--cluster.ctl" Type="VI" URL="../REQ DC PWS Connect Argument--cluster.ctl"/>
 				<Item Name="REQ Write AO Data Argument--cluster.ctl" Type="VI" URL="../REQ Write AO Data Argument--cluster.ctl"/>
+				<Item Name="REQ Initializ CVT Argument--cluster.ctl" Type="VI" URL="../REQ Initializ CVT Argument--cluster.ctl"/>
+				<Item Name="REQ Initializ CVT (Reply Payload)--cluster.ctl" Type="VI" URL="../REQ Initializ CVT (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -35,6 +37,7 @@
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="REQ DC PWS Connect.vi" Type="VI" URL="../REQ DC PWS Connect.vi"/>
 			<Item Name="REQ Write AO Data.vi" Type="VI" URL="../REQ Write AO Data.vi"/>
+			<Item Name="REQ Initializ CVT.vi" Type="VI" URL="../REQ Initializ CVT.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -97,9 +100,12 @@
 		<Item Name="Create AI Group.vi" Type="VI" URL="../Create AI Group.vi"/>
 		<Item Name="Create General Tag.vi" Type="VI" URL="../Create General Tag.vi"/>
 		<Item Name="Create CAN Tag.vi" Type="VI" URL="../Create CAN Tag.vi"/>
+		<Item Name="Create CVT Tag.vi" Type="VI" URL="../Create CVT Tag.vi"/>
 		<Item Name="Creating Instr Tag.vi" Type="VI" URL="../Creating Instr Tag.vi"/>
+		<Item Name="Create DMM Tags.vi" Type="VI" URL="../Create DMM Tags.vi"/>
 		<Item Name="Create ESPEC Temp Tag.vi" Type="VI" URL="../Create ESPEC Temp Tag.vi"/>
 		<Item Name="Create Humi Tag.vi" Type="VI" URL="../Create Humi Tag.vi"/>
+		<Item Name="Create DO Tag.vi" Type="VI" URL="../Create DO Tag.vi"/>
 		<Item Name="Create ESPEC Tag.vi" Type="VI" URL="../Create ESPEC Tag.vi"/>
 		<Item Name="Create DI Tag.vi" Type="VI" URL="../Create DI Tag.vi"/>
 		<Item Name="Create AO Group.vi" Type="VI" URL="../Create AO Group.vi"/>

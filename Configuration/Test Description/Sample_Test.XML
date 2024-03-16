@@ -1,0 +1,49 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>16.0</Version>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Test Name</Name>
+<Val>Airbus POC</Val>
+</String>
+<Array>
+<Name>Test Step</Name>
+<Dimsize>8</Dimsize>
+<String>
+<Name></Name>
+<Val>Read Excel File,C:\repository\common_ATE\Configuration\Input_Data.csv</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Convert Excel Data,Binary</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Convert Excel Data,Boolean</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Index Data,Boolean,Binary</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Write Digital Output,D00,DO1,DO2,DO3,DO4,D05,D06,D07</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Update Input Graph</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Read Digital Input,DI0,DI1,DI2,DI3,DI4,DI5,DI6,DI7</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Check Boolean Data,</Val>
+</String>
+
+</Array>
+</Cluster>
+</LVData>

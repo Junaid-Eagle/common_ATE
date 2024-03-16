@@ -1,0 +1,359 @@
+Date	Time	Error Code	Error Message
+27-02-24	09:31:15	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:31:16	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:31:16	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	09:31:16	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:31:16	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:31:16	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:31:16	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:31:16	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:31:16	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:31:16	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:31:16	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:31:16	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:31:17	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:31:34	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+27-02-24	09:32:50	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	09:32:50	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:32:50	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:32:51	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:35:14	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:35:14	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:35:14	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	09:35:14	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:35:15	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:35:15	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:35:15	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:35:15	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:35:15	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:35:15	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:35:15	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:35:15	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:35:15	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:35:36	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+27-02-24	09:40:38	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:40:38	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:40:38	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	09:40:38	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:40:38	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:40:38	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:40:38	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:40:38	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:40:38	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:40:39	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:40:39	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:40:39	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:40:39	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:40:51	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+27-02-24	09:44:55	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:44:55	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:44:55	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	09:44:55	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:44:55	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:44:56	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:44:56	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:44:56	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:44:56	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:44:56	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:44:56	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:44:56	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:44:56	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:45:08	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+27-02-24	09:49:03	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:49:03	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:49:03	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	09:49:03	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:49:03	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:49:03	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:49:03	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:49:03	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:49:03	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:49:03	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:49:04	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:49:04	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:49:04	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:49:17	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+27-02-24	09:51:53	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:51:53	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:51:53	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	09:51:53	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:51:53	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:51:53	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:51:53	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:51:53	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:51:53	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:51:53	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:51:53	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:51:54	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:51:54	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:52:06	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+27-02-24	09:54:49	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:54:49	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:54:49	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	09:54:49	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:54:49	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:54:49	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:54:49	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:54:49	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:54:49	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:54:50	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:54:50	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:54:50	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	09:54:50	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	10:04:50	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	10:04:50	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	10:04:50	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	10:04:50	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	10:04:50	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	10:04:50	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	10:04:50	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	10:04:50	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	10:04:50	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	10:04:51	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	10:04:51	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	10:04:51	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	10:04:51	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	10:06:13	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+27-02-24	10:47:23	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	10:47:24	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	10:47:24	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	10:47:24	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	10:48:04	-200279	DAQ Hardware.lvlib:PXIe 6363.lvclass:Acquire AI.vi<append>
+<B>Property: </B>RelativeTo
+<B>Requested Value: </B>Current Read Position
+
+<B>Property: </B>Offset
+<B>Requested Value: </B>0
+
+<B>Task Name: </B>AI_Task<DQMH>Message Handling Loop</DQMH>
+27-02-24	10:59:35	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	10:59:35	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	10:59:35	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	10:59:36	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:02:18	403686	Database.lvlib:Request and Wait for Reply Timeout--error.vi:4350001<ERR>
+Database: The 'REQ DB Setup' request timed out.
+
+
+<b>Complete call chain:</b>
+     Database.lvlib:Request and Wait for Reply Timeout--error.vi:4350001
+     Database.lvlib:REQ DB Setup.vi:1030001
+     Database.lvlib:Main.vi
+     Database.lvlib:Main.vi.ACBRProxyCaller.9F7000A4<DQMH>MHL Frame: REQ Retry DB</DQMH>
+27-02-24	11:02:18	403686	Database.lvlib:Request and Wait for Reply Timeout--error.vi:4350001<ERR>
+Database: The 'REQ DB Setup' request timed out.
+
+
+<b>Complete call chain:</b>
+     Database.lvlib:Request and Wait for Reply Timeout--error.vi:4350001
+     Database.lvlib:REQ DB Setup.vi:1030001
+     Database.lvlib:Main.vi
+     Database.lvlib:Main.vi.ACBRProxyCaller.9F7000A4<DQMH>MHL Frame: REQ Retry DB</DQMH>
+27-02-24	11:02:18	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	11:02:18	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:02:18	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:02:19	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:02:38	403686	Database.lvlib:Request and Wait for Reply Timeout--error.vi:4350001<ERR>
+Database: The 'REQ DB Setup' request timed out.
+
+
+<b>Complete call chain:</b>
+     Database.lvlib:Request and Wait for Reply Timeout--error.vi:4350001
+     Database.lvlib:REQ DB Setup.vi:1030001
+     Database.lvlib:Main.vi
+     Database.lvlib:Main.vi.ACBRProxyCaller.9F7000A4<DQMH>MHL Frame: REQ Retry DB</DQMH>
+27-02-24	11:02:38	403686	Database.lvlib:Request and Wait for Reply Timeout--error.vi:4350001<ERR>
+Database: The 'REQ DB Setup' request timed out.
+
+
+<b>Complete call chain:</b>
+     Database.lvlib:Request and Wait for Reply Timeout--error.vi:4350001
+     Database.lvlib:REQ DB Setup.vi:1030001
+     Database.lvlib:Main.vi
+     Database.lvlib:Main.vi.ACBRProxyCaller.9F7000A4<DQMH>MHL Frame: REQ Retry DB</DQMH>
+27-02-24	11:02:58	403686	Database.lvlib:Request and Wait for Reply Timeout--error.vi:4350001<ERR>
+Database: The 'REQ DB Setup' request timed out.
+
+
+<b>Complete call chain:</b>
+     Database.lvlib:Request and Wait for Reply Timeout--error.vi:4350001
+     Database.lvlib:REQ DB Setup.vi:1030001
+     Database.lvlib:Main.vi
+     Database.lvlib:Main.vi.ACBRProxyCaller.9F7000A4<DQMH>MHL Frame: REQ Retry DB</DQMH>
+27-02-24	11:02:58	403686	Database.lvlib:Request and Wait for Reply Timeout--error.vi:4350001<ERR>
+Database: The 'REQ DB Setup' request timed out.
+
+
+<b>Complete call chain:</b>
+     Database.lvlib:Request and Wait for Reply Timeout--error.vi:4350001
+     Database.lvlib:REQ DB Setup.vi:1030001
+     Database.lvlib:Main.vi
+     Database.lvlib:Main.vi.ACBRProxyCaller.9F7000A4<DQMH>MHL Frame: REQ Retry DB</DQMH>
+27-02-24	11:03:28	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	11:03:28	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:03:28	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:03:29	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:05:10	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	11:05:11	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:05:11	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:05:11	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:06:32	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	11:06:32	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:06:32	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:06:33	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:10:07	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	11:10:07	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:10:07	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:10:08	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:12:07	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	11:12:07	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:12:07	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:12:08	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:13:41	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	11:13:42	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:13:42	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:13:42	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:17:04	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	11:17:04	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:17:04	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:17:05	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:21:47	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	11:21:48	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:21:48	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:21:48	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:23:13	-200524	DAQ IO.lvlib:PXI 6515.lvclass:Close DO Ref.vi<append>
+<B>Number of Channels in Task: </B>8
+<B>Number of Channels in Data: </B>1
+
+<B>Task Name: </B>6515_DO_Task<DQMH>MHL Frame: REQ Close DO</DQMH>
+27-02-24	11:23:14	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:23:14	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+27-02-24	11:23:14	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>

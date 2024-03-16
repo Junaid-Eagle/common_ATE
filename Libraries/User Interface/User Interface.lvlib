@@ -102,21 +102,33 @@
 		<Item Name="Log Data TDMS.vi" Type="VI" URL="../Log Data TDMS.vi"/>
 		<Item Name="Instrument Address.vi" Type="VI" URL="../Instrument Address.vi"/>
 		<Item Name="Action log.vi" Type="VI" URL="../Action log.vi"/>
+		<Item Name="Test Comment AE.vi" Type="VI" URL="../Test Comment AE.vi"/>
 		<Item Name="DAQ AI Configuration Settting.vi" Type="VI" URL="../DAQ AI Configuration Settting.vi"/>
+		<Item Name="One Button PoP Up.vi" Type="VI" URL="../One Button PoP Up.vi"/>
 		<Item Name="Array to string converter.vi" Type="VI" URL="../Array to string converter.vi"/>
 		<Item Name="Error Log.vi" Type="VI" URL="../Error Log.vi"/>
 		<Item Name="Trim Empty Value.vi" Type="VI" URL="../Trim Empty Value.vi"/>
+		<Item Name="Generate Report in HTML.vi" Type="VI" URL="../Generate Report in HTML.vi"/>
+		<Item Name="Test Sequence in XML.vi" Type="VI" URL="../Test Sequence in XML.vi"/>
+		<Item Name="Generate Report in Excel.vi" Type="VI" URL="../Generate Report in Excel.vi"/>
+		<Item Name="Generate Report in PDF.vi" Type="VI" URL="../Generate Report in PDF.vi"/>
+		<Item Name="Stop Respective Module.vi" Type="VI" URL="../Stop Respective Module.vi"/>
 		<Item Name="Sub Pabel FGV.vi" Type="VI" URL="../Sub Pabel FGV.vi"/>
+		<Item Name="Decimal String to Binary number.vi" Type="VI" URL="../Decimal String to Binary number.vi"/>
+		<Item Name="Decimal String to Boolean.vi" Type="VI" URL="../Decimal String to Boolean.vi"/>
+		<Item Name="Extract Data From Excel.vi" Type="VI" URL="../Extract Data From Excel.vi"/>
+		<Item Name="Filter Excel Data.vi" Type="VI" URL="../Filter Excel Data.vi"/>
 		<Item Name="String to Ring Converter.vi" Type="VI" URL="../String to Ring Converter.vi"/>
 		<Item Name="Hardware Selection.vi" Type="VI" URL="../Hardware Selection.vi"/>
 		<Item Name="Reference Origin.vi" Type="VI" URL="../Reference Origin.vi"/>
 		<Item Name="Check Uesr found.vi" Type="VI" URL="../Check Uesr found.vi"/>
+		<Item Name="Timer.vi" Type="VI" URL="../Timer.vi"/>
 	</Item>
 	<Item Name="UI" Type="Folder">
 		<Item Name="Maintenance.vi" Type="VI" URL="../Maintenance.vi"/>
 		<Item Name="Dashboard.vi" Type="VI" URL="../Dashboard.vi"/>
 		<Item Name="Inst Configuration.vi" Type="VI" URL="../Inst Configuration.vi"/>
-		<Item Name="Data Analysis.vi" Type="VI" URL="../Data Analysis.vi"/>
+		<Item Name="Test Script.vi" Type="VI" URL="../Test Script.vi"/>
 		<Item Name="Report Generation.vi" Type="VI" URL="../Report Generation.vi"/>
 		<Item Name="Pre-Loader.vi" Type="VI" URL="../Pre-Loader.vi"/>
 		<Item Name="Testing.vi" Type="VI" URL="../Testing.vi"/>
@@ -140,8 +152,17 @@
 		<Item Name="Pre-Loader Command.ctl" Type="VI" URL="../Pre-Loader Command.ctl"/>
 		<Item Name="Test Details.ctl" Type="VI" URL="../Test Details.ctl"/>
 		<Item Name="Test Name Cluster.ctl" Type="VI" URL="../Test Name Cluster.ctl"/>
+		<Item Name="Test State.ctl" Type="VI" URL="../Test State.ctl"/>
+		<Item Name="Main Test Message Cluster.ctl" Type="VI" URL="../Main Test Message Cluster.ctl"/>
+		<Item Name="Test Comment Command.ctl" Type="VI" URL="../Test Comment Command.ctl"/>
+		<Item Name="Test Data.ctl" Type="VI" URL="../Test Data.ctl"/>
 		<Item Name="Action log.ctl" Type="VI" URL="../Action log.ctl"/>
+		<Item Name="Data Analysis Command.ctl" Type="VI" URL="../Data Analysis Command.ctl"/>
 		<Item Name="Message Cluster.ctl" Type="VI" URL="../Message Cluster.ctl"/>
+		<Item Name="Test Squence Command.ctl" Type="VI" URL="../Test Squence Command.ctl"/>
+		<Item Name="Main Test Datahighway.ctl" Type="VI" URL="../Main Test Datahighway.ctl"/>
+		<Item Name="Test Description.ctl" Type="VI" URL="../Test Description.ctl"/>
+		<Item Name="View Data Cluster.ctl" Type="VI" URL="../View Data Cluster.ctl"/>
 		<Item Name="Instrument Address.ctl" Type="VI" URL="../Instrument Address.ctl"/>
 		<Item Name="Instrument Address Command.ctl" Type="VI" URL="../Instrument Address Command.ctl"/>
 		<Item Name="Hardware Selection Command.ctl" Type="VI" URL="../Hardware Selection Command.ctl"/>
