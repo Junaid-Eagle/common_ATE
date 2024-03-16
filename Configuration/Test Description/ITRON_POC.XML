@@ -1,0 +1,45 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>16.0</Version>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Test Sequence</Name>
+<Val>Default Sequence</Val>
+</String>
+<Array>
+<Name>Test Steps</Name>
+<Dimsize>7</Dimsize>
+<String>
+<Name></Name>
+<Val>Read Excel File,D:\repository\common_ATE\Configuration\Input_Data.csv</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Convert Excel Data,Binary,Boolean</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Index Data,Binary,Boolean</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Write Digital Output,DO16,DO17,DO18,DO19,DO20,DO21,DO22,DO23,DO8,DO9,DO10,DO11,DO12,DO13,DO14,DO15</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Update Input Graph</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Read Digital Input,DI0,DI1,DI2,DI3,DI4,DI5,DI6,DI7</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Check Boolean Data</Val>
+</String>
+
+</Array>
+</Cluster>
+</LVData>

@@ -1,0 +1,14 @@
+Date	Time	Error Code	Error Message
+3/16/2024	4:02:21 PM	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/16/2024	4:02:21 PM	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/16/2024	4:03:10 PM	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/16/2024	4:03:10 PM	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/16/2024	4:03:10 PM	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/16/2024	4:03:10 PM	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/16/2024	4:03:10 PM	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/16/2024	4:03:11 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/16/2024	4:03:11 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/16/2024	4:03:11 PM	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/16/2024	4:03:11 PM	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/16/2024	4:03:11 PM	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/16/2024	4:03:11 PM	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
