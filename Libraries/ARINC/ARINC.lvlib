@@ -21,6 +21,16 @@
 				<Item Name="REQ Initialize Hardware Argument--cluster.ctl" Type="VI" URL="../REQ Initialize Hardware Argument--cluster.ctl"/>
 				<Item Name="REQ Initialize Hardware (Reply Payload)--cluster.ctl" Type="VI" URL="../REQ Initialize Hardware (Reply Payload)--cluster.ctl"/>
 				<Item Name="REQ Close Ref Argument--cluster.ctl" Type="VI" URL="../REQ Close Ref Argument--cluster.ctl"/>
+				<Item Name="REQ Initialize Input Argument--cluster.ctl" Type="VI" URL="../REQ Initialize Input Argument--cluster.ctl"/>
+				<Item Name="REQ Initialize Input (Reply Payload)--cluster.ctl" Type="VI" URL="../REQ Initialize Input (Reply Payload)--cluster.ctl"/>
+				<Item Name="REQ Initialize Output Argument--cluster.ctl" Type="VI" URL="../REQ Initialize Output Argument--cluster.ctl"/>
+				<Item Name="REQ Initialize Output (Reply Payload)--cluster.ctl" Type="VI" URL="../REQ Initialize Output (Reply Payload)--cluster.ctl"/>
+				<Item Name="REQ Wakeup_Help_Input Argument--cluster.ctl" Type="VI" URL="../REQ Wakeup_Help_Input Argument--cluster.ctl"/>
+				<Item Name="REQ Wakeup_Help_Output Argument--cluster.ctl" Type="VI" URL="../REQ Wakeup_Help_Output Argument--cluster.ctl"/>
+				<Item Name="REQ Acquire Data Argument--cluster.ctl" Type="VI" URL="../REQ Acquire Data Argument--cluster.ctl"/>
+				<Item Name="REQ Write Data Argument--cluster.ctl" Type="VI" URL="../REQ Write Data Argument--cluster.ctl"/>
+				<Item Name="REQ Wakeup_Help_Logging Argument--cluster.ctl" Type="VI" URL="../REQ Wakeup_Help_Logging Argument--cluster.ctl"/>
+				<Item Name="REQ Start Logging Argument--cluster.ctl" Type="VI" URL="../REQ Start Logging Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -36,6 +46,14 @@
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="REQ Initialize Hardware.vi" Type="VI" URL="../REQ Initialize Hardware.vi"/>
 			<Item Name="REQ Close Ref.vi" Type="VI" URL="../REQ Close Ref.vi"/>
+			<Item Name="REQ Initialize Input.vi" Type="VI" URL="../REQ Initialize Input.vi"/>
+			<Item Name="REQ Initialize Output.vi" Type="VI" URL="../REQ Initialize Output.vi"/>
+			<Item Name="REQ Wakeup_Help_Input.vi" Type="VI" URL="../REQ Wakeup_Help_Input.vi"/>
+			<Item Name="REQ Wakeup_Help_Output.vi" Type="VI" URL="../REQ Wakeup_Help_Output.vi"/>
+			<Item Name="REQ Acquire Data.vi" Type="VI" URL="../REQ Acquire Data.vi"/>
+			<Item Name="REQ Write Data.vi" Type="VI" URL="../REQ Write Data.vi"/>
+			<Item Name="REQ Wakeup_Help_Logging.vi" Type="VI" URL="../REQ Wakeup_Help_Logging.vi"/>
+			<Item Name="REQ Start Logging.vi" Type="VI" URL="../REQ Start Logging.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -90,6 +108,13 @@
 		<Item Name="Synchronize Caller Events.vi" Type="VI" URL="../Synchronize Caller Events.vi"/>
 		<Item Name="Wait on Event Sync.vi" Type="VI" URL="../Wait on Event Sync.vi"/>
 		<Item Name="Wait on Module Sync.vi" Type="VI" URL="../Wait on Module Sync.vi"/>
+	</Item>
+	<Item Name="Control" Type="Folder">
+		<Item Name="Message Data.ctl" Type="VI" URL="../Message Data.ctl"/>
+		<Item Name="Write Command.ctl" Type="VI" URL="../Write Command.ctl"/>
+	</Item>
+	<Item Name="Sub VI" Type="Folder">
+		<Item Name="Write Data in tdms.vi" Type="VI" URL="../Write Data in tdms.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
