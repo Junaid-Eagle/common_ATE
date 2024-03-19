@@ -38,6 +38,7 @@
 				<Item Name="REQ Close Input Session Argument--cluster.ctl" Type="VI" URL="../REQ Close Input Session Argument--cluster.ctl"/>
 				<Item Name="REQ Close Output Session Argument--cluster.ctl" Type="VI" URL="../REQ Close Output Session Argument--cluster.ctl"/>
 				<Item Name="REQ Start Logging Argument--cluster.ctl" Type="VI" URL="../REQ Start Logging Argument--cluster.ctl"/>
+				<Item Name="Helper_Loop_Logging Argument--cluster.ctl" Type="VI" URL="../Helper_Loop_Logging Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -69,6 +70,7 @@
 			<Item Name="REQ Close Input Session.vi" Type="VI" URL="../REQ Close Input Session.vi"/>
 			<Item Name="REQ Close Output Session.vi" Type="VI" URL="../REQ Close Output Session.vi"/>
 			<Item Name="REQ Start Logging.vi" Type="VI" URL="../REQ Start Logging.vi"/>
+			<Item Name="Helper_Loop_Logging.vi" Type="VI" URL="../Helper_Loop_Logging.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>

@@ -104,6 +104,7 @@
 		<Item Name="Creating Instr Tag.vi" Type="VI" URL="../Creating Instr Tag.vi"/>
 		<Item Name="Create DMM Tags.vi" Type="VI" URL="../Create DMM Tags.vi"/>
 		<Item Name="Create ESPEC Temp Tag.vi" Type="VI" URL="../Create ESPEC Temp Tag.vi"/>
+		<Item Name="Serial Tag.vi" Type="VI" URL="../Serial Tag.vi"/>
 		<Item Name="Create Humi Tag.vi" Type="VI" URL="../Create Humi Tag.vi"/>
 		<Item Name="Create DO Tag.vi" Type="VI" URL="../Create DO Tag.vi"/>
 		<Item Name="Create ESPEC Tag.vi" Type="VI" URL="../Create ESPEC Tag.vi"/>
@@ -113,5 +114,4 @@
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Current Value Table.lvlib" Type="Library" URL="../../../Support Libraries/Current Value Table/Current Value Table.lvlib"/>
 </Library>

@@ -14,9 +14,9 @@
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Database.lvlib" Type="Library" URL="../Libraries/Database/Database.lvlib"/>
 			<Item Name="CAN.lvlib" Type="Library" URL="../Libraries/CAN/CAN.lvlib"/>
+			<Item Name="ARINC.lvlib" Type="Library" URL="../Libraries/ARINC/ARINC.lvlib"/>
 			<Item Name="DAQ Hardware.lvlib" Type="Library" URL="../Libraries/DAQ Hardware/DAQ Hardware.lvlib"/>
 			<Item Name="DAQ IO.lvlib" Type="Library" URL="../Libraries/DAQ IO/DAQ IO.lvlib"/>
-			<Item Name="ARINC.lvlib" Type="Library" URL="../Libraries/ARINC/ARINC.lvlib"/>
 			<Item Name="DC PWS.lvlib" Type="Library" URL="../Libraries/DC PWS/DC PWS.lvlib"/>
 			<Item Name="DMM.lvlib" Type="Library" URL="../Libraries/DMM/DMM.lvlib"/>
 			<Item Name="Func Generator.lvlib" Type="Library" URL="../Libraries/Func Generator/Func Generator.lvlib"/>
@@ -27,8 +27,8 @@
 			<Item Name="CVT.lvlib" Type="Library" URL="../Libraries/CVT/CVT.lvlib"/>
 			<Item Name="Data Analysis.lvlib" Type="Library" URL="../Libraries/Data Analysis/Data Analysis.lvlib"/>
 			<Item Name="Calibration.lvlib" Type="Library" URL="../Libraries/Calibration/Calibration.lvlib"/>
-			<Item Name="User Interface.lvlib" Type="Library" URL="../Libraries/User Interface/User Interface.lvlib"/>
 			<Item Name="Serial Hardware.lvlib" Type="Library" URL="../Libraries/Serial Hardware/Serial Hardware.lvlib"/>
+			<Item Name="User Interface.lvlib" Type="Library" URL="../Libraries/User Interface/User Interface.lvlib"/>
 		</Item>
 		<Item Name="Testers" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
@@ -36,7 +36,6 @@
 			<Item Name="Test CAN API.vi" Type="VI" URL="../Libraries/CAN/Test CAN API.vi"/>
 			<Item Name="Test DAQ Hardware API.vi" Type="VI" URL="../Libraries/DAQ Hardware/Test DAQ Hardware API.vi"/>
 			<Item Name="Test DAQ IO API.vi" Type="VI" URL="../Libraries/DAQ IO/Test DAQ IO API.vi"/>
-			<Item Name="Test ARINC API.vi" Type="VI" URL="../Libraries/ARINC/Test ARINC API.vi"/>
 			<Item Name="Test DC PWS API.vi" Type="VI" URL="../Libraries/DC PWS/Test DC PWS API.vi"/>
 			<Item Name="Test DMM API.vi" Type="VI" URL="../Libraries/DMM/Test DMM API.vi"/>
 			<Item Name="Test Func Generator API.vi" Type="VI" URL="../Libraries/Func Generator/Test Func Generator API.vi"/>
@@ -48,23 +47,16 @@
 			<Item Name="Test Data Analysis API.vi" Type="VI" URL="../Libraries/Data Analysis/Test Data Analysis API.vi"/>
 			<Item Name="Test User Interface API.vi" Type="VI" URL="../Libraries/User Interface/Test User Interface API.vi"/>
 			<Item Name="Test Calibration API.vi" Type="VI" URL="../Libraries/Calibration/Test Calibration API.vi"/>
+			<Item Name="Test ARINC API.vi" Type="VI" URL="../Libraries/ARINC/Test ARINC API.vi"/>
 			<Item Name="Test Serial Hardware API.vi" Type="VI" URL="../Libraries/Serial Hardware/Test Serial Hardware API.vi"/>
 		</Item>
 		<Item Name="Start up.vi" Type="VI" URL="../Start up.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
-				<Item Name="Agilent 33XXX Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Agilent 33XXX Series/Agilent 33XXX Series.lvlib"/>
-				<Item Name="Agilent 2000 3000 X-Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Agilent 2000 3000 X-Series/Agilent 2000 3000 X-Series.lvlib"/>
-				<Item Name="Agilent 34401.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Agilent 34401/Agilent 34401.lvlib"/>
+				<Item Name="AIT 429 Close.vi" Type="VI" URL="/&lt;instrlib&gt;/AIT 429/Public/AIT 429 Close.vi"/>
+				<Item Name="AIT 429 Initialize (Serial Number).vi" Type="VI" URL="/&lt;instrlib&gt;/AIT 429/Private/AIT 429 Initialize (Serial Number).vi"/>
+				<Item Name="AIT 429 Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/AIT 429/Public/AIT 429 Initialize.vi"/>
 				<Item Name="BK Precision 911X Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/BK Precision 911X Series/BK Precision 911X Series.lvlib"/>
-				<Item Name="niSwitch Close.vi" Type="VI" URL="/&lt;instrlib&gt;/niSwitch/niSwitch.llb/niSwitch Close.vi"/>
-				<Item Name="niSwitch Connect Channels (Multiple).vi" Type="VI" URL="/&lt;instrlib&gt;/niSwitch/niSwitch.llb/niSwitch Connect Channels (Multiple).vi"/>
-				<Item Name="niSwitch Connect Channels (Single).vi" Type="VI" URL="/&lt;instrlib&gt;/niSwitch/niSwitch.llb/niSwitch Connect Channels (Single).vi"/>
-				<Item Name="niSwitch Connect Channels.vi" Type="VI" URL="/&lt;instrlib&gt;/niSwitch/niSwitch.llb/niSwitch Connect Channels.vi"/>
-				<Item Name="niSwitch Initialize With Topology.vi" Type="VI" URL="/&lt;instrlib&gt;/niSwitch/niSwitch.llb/niSwitch Initialize With Topology.vi"/>
-				<Item Name="niSwitch IVI Error Converter.vi" Type="VI" URL="/&lt;instrlib&gt;/niSwitch/niSwitch.llb/niSwitch IVI Error Converter.vi"/>
-				<Item Name="niSwitch Topologies.ctl" Type="VI" URL="/&lt;instrlib&gt;/niSwitch/niSwitch.llb/niSwitch Topologies.ctl"/>
-				<Item Name="niSwitch Wait For Debounce.vi" Type="VI" URL="/&lt;instrlib&gt;/niSwitch/niSwitch.llb/niSwitch Wait For Debounce.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -355,6 +347,7 @@
 				<Item Name="LVDateTimeRec.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVDateTimeRec.ctl"/>
 				<Item Name="LVPointTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPointTypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
+				<Item Name="LVRowAndColumnTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRowAndColumnTypeDef.ctl"/>
 				<Item Name="NI_Database_API.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/database/NI_Database_API.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_HTML.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Utility/NIReport.llb/HTML/NI_HTML.lvclass"/>
@@ -524,25 +517,45 @@
 			<Item Name="Advapi32.dll" Type="Document" URL="Advapi32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="AIT 429 Close.vi" Type="VI" URL="/../../&lt;instrlib&gt;/AIT 429/Public/AIT 429 Close.vi"/>
-			<Item Name="AIT 429 Initialize (Serial Number).vi" Type="VI" URL="/../../&lt;instrlib&gt;/AIT 429/Private/AIT 429 Initialize (Serial Number).vi"/>
-			<Item Name="AIT 429 Initialize.vi" Type="VI" URL="/../../&lt;instrlib&gt;/AIT 429/Public/AIT 429 Initialize.vi"/>
+			<Item Name="Autosetup.vi" Type="VI" URL="../../../&lt;instrlib&gt;/Agilent 2000 3000 X-Series/Public/Configure/Autosetup.vi"/>
+			<Item Name="Close.vi" Type="VI" URL="../../../&lt;instrlib&gt;/Agilent 33XXX Series/Public/Close.vi"/>
+			<Item Name="Close.vi" Type="VI" URL="../../../&lt;instrlib&gt;/Agilent 2000 3000 X-Series/Public/Close.vi"/>
+			<Item Name="Close.vi" Type="VI" URL="../../../C/Program Files (x86)/National Instruments/LabVIEW 2022/instr.lib/Agilent 34401/Public/Close.vi"/>
+			<Item Name="Configure Channel.vi" Type="VI" URL="../../../&lt;instrlib&gt;/Agilent 2000 3000 X-Series/Public/Configure/Configure Channel.vi"/>
+			<Item Name="Configure Digital Voltmeter.vi" Type="VI" URL="../../../&lt;instrlib&gt;/Agilent 2000 3000 X-Series/Public/Configure/Digital Voltmeter/Configure Digital Voltmeter.vi"/>
+			<Item Name="Configure Frequency Sweep.vi" Type="VI" URL="../../../&lt;instrlib&gt;/Agilent 33XXX Series/Public/Configure/Configure Frequency Sweep.vi"/>
+			<Item Name="Configure Measurement.vi" Type="VI" URL="../../../C/Program Files (x86)/National Instruments/LabVIEW 2022/instr.lib/Agilent 34401/Public/Configure/Configure Measurement.vi"/>
+			<Item Name="Configure Output Impedance.vi" Type="VI" URL="../../../&lt;instrlib&gt;/Agilent 33XXX Series/Public/Configure/Configure Output Impedance.vi"/>
+			<Item Name="Configure Standard Waveform.vi" Type="VI" URL="../../../&lt;instrlib&gt;/Agilent 33XXX Series/Public/Configure/Configure Standard Waveform.vi"/>
+			<Item Name="Enable Output.vi" Type="VI" URL="../../../&lt;instrlib&gt;/Agilent 33XXX Series/Public/Action-Status/Enable Output.vi"/>
+			<Item Name="Initialize.vi" Type="VI" URL="../../../&lt;instrlib&gt;/Agilent 33XXX Series/Public/Initialize.vi"/>
+			<Item Name="Initialize.vi" Type="VI" URL="../../../&lt;instrlib&gt;/Agilent 2000 3000 X-Series/Public/Initialize.vi"/>
+			<Item Name="Initialize.vi" Type="VI" URL="../../../C/Program Files (x86)/National Instruments/LabVIEW 2022/instr.lib/Agilent 34401/Public/Initialize.vi"/>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="NI-XNET Example subVI - CAN Frame to Table.vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2016/examples/nixnet/examples.llb/NI-XNET Example subVI - CAN Frame to Table.vi"/>
-			<Item Name="NI-XNET Example subVI - Create CAN Cluster.vi" Type="VI" URL="/../Program Files (x86)/National Instruments/LabVIEW 2016/examples/nixnet/examples.llb/NI-XNET Example subVI - Create CAN Cluster.vi"/>
-			<Item Name="NI-XNET Example subVI - Create CAN Frame.vi" Type="VI" URL="/../Program Files (x86)/National Instruments/LabVIEW 2016/examples/nixnet/examples.llb/NI-XNET Example subVI - Create CAN Frame.vi"/>
-			<Item Name="NI-XNET Example subVI - Create Signal.vi" Type="VI" URL="/../Program Files (x86)/National Instruments/LabVIEW 2016/examples/nixnet/examples.llb/NI-XNET Example subVI - Create Signal.vi"/>
+			<Item Name="NI-XNET Example subVI - CAN Frame to Table.vi" Type="VI" URL="../../../C/Program Files (x86)/National Instruments/LabVIEW 2016/examples/nixnet/examples.llb/NI-XNET Example subVI - CAN Frame to Table.vi"/>
+			<Item Name="NI-XNET Example subVI - Create CAN Cluster.vi" Type="VI" URL="/Program Files (x86)/National Instruments/LabVIEW 2016/examples/nixnet/examples.llb/NI-XNET Example subVI - Create CAN Cluster.vi"/>
+			<Item Name="NI-XNET Example subVI - Create CAN Frame.vi" Type="VI" URL="/Program Files (x86)/National Instruments/LabVIEW 2016/examples/nixnet/examples.llb/NI-XNET Example subVI - Create CAN Frame.vi"/>
+			<Item Name="NI-XNET Example subVI - Create Signal.vi" Type="VI" URL="/Program Files (x86)/National Instruments/LabVIEW 2016/examples/nixnet/examples.llb/NI-XNET Example subVI - Create Signal.vi"/>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="niswitch_64.dll" Type="Document" URL="niswitch_64.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
+			<Item Name="niSwitch Close.vi" Type="VI" URL="../../../&lt;instrlib&gt;/niSwitch/niSwitch.llb/niSwitch Close.vi"/>
+			<Item Name="niSwitch Connect Channels (Single).vi" Type="VI" URL="../../../&lt;instrlib&gt;/niSwitch/niSwitch.llb/niSwitch Connect Channels (Single).vi"/>
+			<Item Name="niSwitch Connect Channels.vi" Type="VI" URL="../../../&lt;instrlib&gt;/niSwitch/niSwitch.llb/niSwitch Connect Channels.vi"/>
+			<Item Name="niSwitch Initialize With Topology.vi" Type="VI" URL="../../../&lt;instrlib&gt;/niSwitch/niSwitch.llb/niSwitch Initialize With Topology.vi"/>
+			<Item Name="niSwitch Topologies.ctl" Type="VI" URL="../../../&lt;instrlib&gt;/niSwitch/niSwitch.llb/niSwitch Topologies.ctl"/>
+			<Item Name="niSwitch Wait For Debounce.vi" Type="VI" URL="../../../&lt;instrlib&gt;/niSwitch/niSwitch.llb/niSwitch Wait For Debounce.vi"/>
 			<Item Name="nixlvapi.dll" Type="Document" URL="nixlvapi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Read (Single Point).vi" Type="VI" URL="../../../C/Program Files (x86)/National Instruments/LabVIEW 2022/instr.lib/Agilent 34401/Public/Data/Read (Single Point).vi"/>
+			<Item Name="Read Digital Voltmeter.vi" Type="VI" URL="../../../&lt;instrlib&gt;/Agilent 2000 3000 X-Series/Public/Data/Read Digital Voltmeter.vi"/>
+			<Item Name="Read Waveforms (Single).vi" Type="VI" URL="../../../&lt;instrlib&gt;/Agilent 2000 3000 X-Series/Public/Data/Read Waveforms (Single).vi"/>
+			<Item Name="Read Waveforms.vi" Type="VI" URL="../../../&lt;instrlib&gt;/Agilent 2000 3000 X-Series/Public/Data/Read Waveforms.vi"/>
+			<Item Name="Read.vi" Type="VI" URL="../../../C/Program Files (x86)/National Instruments/LabVIEW 2022/instr.lib/Agilent 34401/Public/Data/Read.vi"/>
+			<Item Name="Self-Test.vi" Type="VI" URL="../../../C/Program Files (x86)/National Instruments/LabVIEW 2022/instr.lib/Agilent 34401/Public/Utility/Self-Test.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="common_ATE" Type="EXE">

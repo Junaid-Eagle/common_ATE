@@ -1,0 +1,95 @@
+Date	Time	Error Code	Error Message
+3/17/2024	10:52:07 AM	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:52:07 AM	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:52:07 AM	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:52:59 AM	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:52:59 AM	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:52:59 AM	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:58:37 AM	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:58:37 AM	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:58:37 AM	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:58:37 AM	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:58:37 AM	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:58:38 AM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:58:38 AM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:58:38 AM	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:58:38 AM	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:58:38 AM	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:58:38 AM	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:59:35 AM	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:59:35 AM	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:59:35 AM	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:59:36 AM	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:59:36 AM	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:59:36 AM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:59:36 AM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:59:36 AM	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:59:36 AM	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:59:36 AM	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	10:59:36 AM	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	11:05:09 AM	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	11:05:09 AM	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	11:05:09 AM	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	11:05:09 AM	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	11:05:10 AM	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	11:05:10 AM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	11:05:10 AM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	11:05:10 AM	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	11:05:10 AM	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	11:05:10 AM	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	11:05:10 AM	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:02:42 PM	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:02:42 PM	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:02:42 PM	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:02:42 PM	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:02:42 PM	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:02:42 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:02:42 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:02:43 PM	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:02:43 PM	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:02:43 PM	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:02:43 PM	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:04:43 PM	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:04:43 PM	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:04:43 PM	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:04:43 PM	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:04:43 PM	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:04:43 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:04:43 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:04:43 PM	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:04:43 PM	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:04:44 PM	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:04:44 PM	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:06:59 PM	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:06:59 PM	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:06:59 PM	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:06:59 PM	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:06:59 PM	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:06:59 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:06:59 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:06:59 PM	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:06:59 PM	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:07:00 PM	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:07:00 PM	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:08:38 PM	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:08:38 PM	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:08:38 PM	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:08:38 PM	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:08:38 PM	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:08:38 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:08:38 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:08:38 PM	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:08:38 PM	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:08:39 PM	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:08:39 PM	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:10:11 PM	537163	Tag Memory.vi<append>Tag 'NI DAQ Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:10:11 PM	537163	Tag Memory.vi<append>Tag 'NI DIO Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:10:11 PM	537163	Tag Memory.vi<append>Tag 'NI CAN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:10:11 PM	537163	Tag Memory.vi<append>Tag 'ARINC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:10:11 PM	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:10:11 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:10:11 PM	537163	Tag Memory.vi<append>Tag 'DC PWS Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:10:11 PM	537163	Tag Memory.vi<append>Tag 'DMM Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:10:11 PM	537163	Tag Memory.vi<append>Tag 'FGEN Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:10:11 PM	537163	Tag Memory.vi<append>Tag 'Oscill Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+3/17/2024	3:10:11 PM	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>

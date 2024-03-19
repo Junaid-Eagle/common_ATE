@@ -116,6 +116,10 @@
 		<Item Name="Sub Pabel FGV.vi" Type="VI" URL="../Sub Pabel FGV.vi"/>
 		<Item Name="Decimal String to Binary number.vi" Type="VI" URL="../Decimal String to Binary number.vi"/>
 		<Item Name="Decimal String to Boolean.vi" Type="VI" URL="../Decimal String to Boolean.vi"/>
+		<Item Name="Date Format Check.vi" Type="VI" URL="../Date Format Check.vi"/>
+		<Item Name="Serial Number Entry.vi" Type="VI" URL="../Serial Number Entry.vi"/>
+		<Item Name="Update Test Parameter.vi" Type="VI" URL="../Update Test Parameter.vi"/>
+		<Item Name="Update Test Result.vi" Type="VI" URL="../Update Test Result.vi"/>
 		<Item Name="Extract Data From Excel.vi" Type="VI" URL="../Extract Data From Excel.vi"/>
 		<Item Name="Filter Excel Data.vi" Type="VI" URL="../Filter Excel Data.vi"/>
 		<Item Name="String to Ring Converter.vi" Type="VI" URL="../String to Ring Converter.vi"/>
@@ -127,7 +131,7 @@
 	<Item Name="UI" Type="Folder">
 		<Item Name="Maintenance.vi" Type="VI" URL="../Maintenance.vi"/>
 		<Item Name="Dashboard.vi" Type="VI" URL="../Dashboard.vi"/>
-		<Item Name="Inst Configuration.vi" Type="VI" URL="../Inst Configuration.vi"/>
+		<Item Name="Inst Calibration.vi" Type="VI" URL="../Inst Calibration.vi"/>
 		<Item Name="Test Script.vi" Type="VI" URL="../Test Script.vi"/>
 		<Item Name="Report Generation.vi" Type="VI" URL="../Report Generation.vi"/>
 		<Item Name="Pre-Loader.vi" Type="VI" URL="../Pre-Loader.vi"/>
@@ -157,8 +161,10 @@
 		<Item Name="Test Comment Command.ctl" Type="VI" URL="../Test Comment Command.ctl"/>
 		<Item Name="Test Data.ctl" Type="VI" URL="../Test Data.ctl"/>
 		<Item Name="Action log.ctl" Type="VI" URL="../Action log.ctl"/>
+		<Item Name="Inst Calibration Data Highway.ctl" Type="VI" URL="../Inst Calibration Data Highway.ctl"/>
 		<Item Name="Data Analysis Command.ctl" Type="VI" URL="../Data Analysis Command.ctl"/>
 		<Item Name="Message Cluster.ctl" Type="VI" URL="../Message Cluster.ctl"/>
+		<Item Name="Test Status Command.ctl" Type="VI" URL="../Test Status Command.ctl"/>
 		<Item Name="Test Squence Command.ctl" Type="VI" URL="../Test Squence Command.ctl"/>
 		<Item Name="Main Test Datahighway.ctl" Type="VI" URL="../Main Test Datahighway.ctl"/>
 		<Item Name="Test Description.ctl" Type="VI" URL="../Test Description.ctl"/>
