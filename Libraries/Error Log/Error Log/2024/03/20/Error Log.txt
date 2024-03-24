@@ -1,0 +1,74 @@
+Date	Time	Error Code	Error Message
+20-03-24	11:39:14	1	Get Queue Status in NI_LVConfig.lvlib:Get File Path.vi->NI_LVConfig.lvlib:Close Config Data.vi->User Interface.lvlib:Instrument Address.vi->ARINC.lvlib:Main.vi->ARINC.lvlib:Main.vi.ACBRProxyCaller.600005B<DQMH>MHL Frame: REQ Inst Address</DQMH>
+20-03-24	11:39:14	1	Get Queue Status in NI_LVConfig.lvlib:Get File Path.vi->NI_LVConfig.lvlib:Close Config Data.vi->User Interface.lvlib:Instrument Address.vi->DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Inst Address</DQMH>
+20-03-24	11:39:14	1	Get Queue Status in NI_LVConfig.lvlib:Get File Path.vi->NI_LVConfig.lvlib:Close Config Data.vi->User Interface.lvlib:Instrument Address.vi->DMM.lvlib:Main.vi->DMM.lvlib:Main.vi.ACBRProxyCaller.650005F<DQMH>MHL Frame: REQ Inst Address</DQMH>
+20-03-24	11:39:14	1	Get Queue Status in NI_LVConfig.lvlib:Get File Path.vi->NI_LVConfig.lvlib:Close Config Data.vi->User Interface.lvlib:Instrument Address.vi->Func Generator.lvlib:Main.vi->Func Generator.lvlib:Main.vi.ACBRProxyCaller.6700061<DQMH>MHL Frame: REQ Inst Address</DQMH>
+20-03-24	11:39:14	1	Get Queue Status in NI_LVConfig.lvlib:Get File Path.vi->NI_LVConfig.lvlib:Close Config Data.vi->User Interface.lvlib:Instrument Address.vi->Oscilloscope.lvlib:Main.vi->Oscilloscope.lvlib:Main.vi.ACBRProxyCaller.6A00063<DQMH>MHL Frame: REQ Inst Address</DQMH>
+20-03-24	11:39:14	1	Get Queue Status in NI_LVConfig.lvlib:Get File Path.vi->NI_LVConfig.lvlib:Close Config Data.vi->User Interface.lvlib:Instrument Address.vi->Environment Chamber.lvlib:Main.vi->Environment Chamber.lvlib:Main.vi.ACBRProxyCaller.6E00067<DQMH>MHL Frame: REQ Inst Address</DQMH>
+20-03-24	11:39:14	1	Get Queue Status in NI_LVConfig.lvlib:Get File Path.vi->NI_LVConfig.lvlib:Close Config Data.vi->User Interface.lvlib:Instrument Address.vi->S-Matrix.lvlib:Main.vi->S-Matrix.lvlib:Main.vi.ACBRProxyCaller.6C00065<DQMH>MHL Frame: REQ Inst Address</DQMH>
+20-03-24	11:39:14	1	Get Queue Status in NI_LVConfig.lvlib:Get File Path.vi->NI_LVConfig.lvlib:Close Config Data.vi->User Interface.lvlib:Instrument Address.vi->Serial Hardware.lvlib:Main.vi->Serial Hardware.lvlib:Main.vi.ACBRProxyCaller.750006D<DQMH>MHL Frame: REQ Inst Address</DQMH>
+20-03-24	11:39:14	1	Get Queue Status in NI_LVConfig.lvlib:Get File Path.vi->NI_LVConfig.lvlib:Close Config Data.vi->User Interface.lvlib:Instrument Address.vi->DAQ IO.lvlib:Main.vi->DAQ IO.lvlib:Main.vi.ACBRProxyCaller.5E00059<DQMH>MHL Frame: REQ Inst Address</DQMH>
+20-03-24	11:39:14	1	Get Queue Status in NI_LVConfig.lvlib:Get File Path.vi->NI_LVConfig.lvlib:Close Config Data.vi->User Interface.lvlib:Instrument Address.vi->DAQ Hardware.lvlib:Main.vi->DAQ Hardware.lvlib:Main.vi.ACBRProxyCaller.5B00057<DQMH>MHL Frame: REQ Inst Address</DQMH>
+20-03-24	11:39:14	1	Get Queue Status in NI_LVConfig.lvlib:Get File Path.vi->NI_LVConfig.lvlib:Close Config Data.vi->User Interface.lvlib:Instrument Address.vi->CVT.lvlib:Create DO Tag.vi->CVT.lvlib:Create CVT Tag.vi->CVT.lvlib:Main.vi->CVT.lvlib:Main.vi.ACBRProxyCaller.7100069<DQMH>MHL Frame: REQ Initializ CVT</DQMH>
+20-03-24	11:39:14	1	Get Queue Status in NI_LVConfig.lvlib:Get File Path.vi->NI_LVConfig.lvlib:Close Config Data.vi->User Interface.lvlib:Instrument Address.vi->CVT.lvlib:Create DO Tag.vi->CVT.lvlib:Create CVT Tag.vi->CVT.lvlib:Main.vi->CVT.lvlib:Main.vi.ACBRProxyCaller.7100069<DQMH>MHL Frame: REQ Initializ CVT</DQMH>
+20-03-24	11:39:14	537163	Tag Memory.vi<append>Tag 'MATRIX Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+20-03-24	11:39:15	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:16	91	Variant To Data in DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Retry DC PWS</DQMH>
+20-03-24	11:39:16	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:17	537163	Tag Memory.vi<append>Tag 'ESPEC Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+20-03-24	11:39:17	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:17	537163	Tag Memory.vi<append>Tag 'Serial Connect?'<DQMH>MHL Frame: REQ DC PWS Connect</DQMH>
+20-03-24	11:39:18	91	Variant To Data in DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Retry DC PWS</DQMH>
+20-03-24	11:39:18	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:19	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:20	91	Variant To Data in DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Retry DC PWS</DQMH>
+20-03-24	11:39:20	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:21	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:22	91	Variant To Data in DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Retry DC PWS</DQMH>
+20-03-24	11:39:22	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:23	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:24	91	Variant To Data in DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Retry DC PWS</DQMH>
+20-03-24	11:39:24	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:25	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:25	-1073807346	VISA Flush I/O Buffer in Serial Hardware.lvlib:Serial Device.lvclass:Close Ref.vi->Serial Hardware.lvlib:Main.vi->Serial Hardware.lvlib:Main.vi.ACBRProxyCaller.750006D<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:26	91	Variant To Data in DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Retry DC PWS</DQMH>
+20-03-24	11:39:26	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:27	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:28	91	Variant To Data in DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Retry DC PWS</DQMH>
+20-03-24	11:39:28	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:29	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:30	91	Variant To Data in DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Retry DC PWS</DQMH>
+20-03-24	11:39:30	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:31	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:32	91	Variant To Data in DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Retry DC PWS</DQMH>
+20-03-24	11:39:32	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:33	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:34	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:34	91	Variant To Data in DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Retry DC PWS</DQMH>
+20-03-24	11:39:35	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:36	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:36	91	Variant To Data in DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Retry DC PWS</DQMH>
+20-03-24	11:39:37	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:38	91	Variant To Data in DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Retry DC PWS</DQMH>
+20-03-24	11:39:38	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:39	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:40	91	Variant To Data in DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Retry DC PWS</DQMH>
+20-03-24	11:39:40	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:41	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:42	91	Variant To Data in DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Retry DC PWS</DQMH>
+20-03-24	11:39:42	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:43	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:44	91	Variant To Data in DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Retry DC PWS</DQMH>
+20-03-24	11:39:44	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:45	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:46	91	Variant To Data in DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Retry DC PWS</DQMH>
+20-03-24	11:39:46	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:47	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:48	91	Variant To Data in DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Retry DC PWS</DQMH>
+20-03-24	11:39:48	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:49	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:50	91	Variant To Data in DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Retry DC PWS</DQMH>
+20-03-24	11:39:50	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:51	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
+20-03-24	11:39:52	91	Variant To Data in DC PWS.lvlib:Main.vi->DC PWS.lvlib:Main.vi.ACBRProxyCaller.620005D<DQMH>MHL Frame: REQ Retry DC PWS</DQMH>
+20-03-24	11:39:52	537164	Group Memory.vi<append>Group 'DMM Parameter'<DQMH>Message Handling Loop</DQMH>
